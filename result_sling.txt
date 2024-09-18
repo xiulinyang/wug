@@ -1,0 +1,14 @@
+pseudo
+	pseudo
+pseudo
+	pseudo
+		xlm-roberta-base	50.07812	-166.89240	-166.67252
+		xlm-roberta-large	54.45312	-213.26546	-219.78941
+pseudo
+	pseudo
+		xlm-roberta-base	50.07812	-166.89240	-166.67252
+		xlm-roberta-large	54.45312	-213.26546	-219.78941
+		google-bert/bert-large-uncased	48.56771	-1983.27557	-1948.39562
+		google-bert/bert-base-uncased	49.89583	-2067.19552	-2028.25895
+		bert-base-multilingual-cased	50.75521	-201.34720	-200.22897
+		google/mt5-small	50.75521	-38.04809	-38.07024
