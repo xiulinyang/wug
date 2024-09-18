@@ -32,10 +32,11 @@ for sling_file in sling_files:
     ##############
     # Masked LMs #
     ##############
-    masked_lm_names = ["xlm-roberta-base", "xlm-roberta-large", "google-bert/bert-large-uncased",
-                       "google-bert/bert-base-uncased", \
-                       "bert-base-multilingual-cased", \
-                       "google/mt5-small", "google/mt5-large"]
+    # masked_lm_names = ["xlm-roberta-base", "xlm-roberta-large", "google-bert/bert-large-uncased",
+    #                    "google-bert/bert-base-uncased", \
+    #                    "bert-base-multilingual-cased", \
+    #                    "google/mt5-small", "google/mt5-large"]
+    masked_lm_names = ["google-bert/bert-large-uncased", "google-bert/bert-base-uncased"]
 
     i = 1
 
