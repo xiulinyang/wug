@@ -4,6 +4,5 @@
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/SLING_Data_Code" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/wuggy" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/wuggy/wuggy/plugins/language_data" vcs="Git" />
   </component>
 </project>
