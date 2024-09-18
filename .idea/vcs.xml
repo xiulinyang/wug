@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/SLING_Data_Code" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/wuggy" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/wuggy/wuggy/plugins/language_data" vcs="Git" />
+  </component>
+</project>
