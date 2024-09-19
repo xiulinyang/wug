@@ -8,8 +8,8 @@ parser.add_argument("--metric", type=str, default="perplexity")
 args = parser.parse_args()
 
 # Read in SLING data
-sling_files = glob.glob("/local/xiulyang/wug/data/*.jsonl", recursive=True)
-
+sling_files = glob.glob("/local/xiulyang/wug/linzen_data/*.jsonl", recursive=True)
+print(sling_files)
 mp_dict_list = []
 for sling_file in sling_files:
     dir = sling_file.split("/")
@@ -32,11 +32,8 @@ for sling_file in sling_files:
     ##############
     # Masked LMs #
     ##############
-    # masked_lm_names = ["xlm-roberta-base", "xlm-roberta-large", "google-bert/bert-large-uncased",
-    #                    "google-bert/bert-base-uncased", \
-    #                    "bert-base-multilingual-cased", \
-    #                    "google/mt5-small", "google/mt5-large"]
-    masked_lm_names = ["google-bert/bert-large-uncased", "google-bert/bert-base-uncased"]
+
+    masked_lm_names = ["google-bert/bert-base-uncased"]
 
     i = 1
 
