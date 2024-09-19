@@ -12,3 +12,13 @@ pseudo
 		google-bert/bert-base-uncased	49.89583	-2067.19552	-2028.25895
 		bert-base-multilingual-cased	50.75521	-201.34720	-200.22897
 		google/mt5-small	50.75521	-38.04809	-38.07024
+pseudo
+	pseudo
+		google-bert/bert-large-uncased	53.25521	-451.88060	-473.91730
+		google-bert/bert-base-uncased	53.33333	-465.00076	-482.72633
+		openai-community/gpt2	54.79167	-2009.14673	-2142.96924
+natural
+	natural
+		google-bert/bert-large-uncased	64.55729	-320.36430	-440.85699
+		google-bert/bert-base-uncased	60.13021	-318.72035	-411.37447
+		openai-community/gpt2	62.44792	-1605.61206	-1776.38818
