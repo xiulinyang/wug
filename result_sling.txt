@@ -22,3 +22,7 @@ natural
 		google-bert/bert-large-uncased	64.55729	-320.36430	-440.85699
 		google-bert/bert-base-uncased	60.13021	-318.72035	-411.37447
 		openai-community/gpt2	62.44792	-1605.61206	-1776.38818
+lgd_dataset_blimp
+	lgd_dataset_blimp
+		google-bert/bert-base-uncased	96.11806	-6.96252	-8.96437
+		openai-community/gpt2	91.58579	-154.95891	-173.46408

@@ -8,7 +8,7 @@ parser.add_argument("--metric", type=str, default="perplexity")
 args = parser.parse_args()
 
 # Read in SLING data
-sling_files = glob.glob("/local/xiulyang/wug/linzen_data/*.jsonl", recursive=True)
+sling_files = glob.glob("/local/xiulyang/wug/data/natural.jsonl", recursive=True)
 print(sling_files)
 mp_dict_list = []
 for sling_file in sling_files:
@@ -33,7 +33,7 @@ for sling_file in sling_files:
     # Masked LMs #
     ##############
 
-    masked_lm_names = ["google-bert/bert-base-uncased"]
+    masked_lm_names = ["google-bert/bert-base-uncased","google-bert/bert-large-uncased"]
 
     i = 1
 
