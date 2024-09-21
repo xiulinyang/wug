@@ -26,3 +26,23 @@ lgd_dataset_blimp
 	lgd_dataset_blimp
 		google-bert/bert-base-uncased	96.11806	-6.96252	-8.96437
 		openai-community/gpt2	91.58579	-154.95891	-173.46408
+natural
+	natural
+		google-bert/bert-base-uncased	66.92708	-218.45698	-350.56913
+		google-bert/bert-large-uncased	75.85938	-227.12479	-410.10296
+		openai-community/gpt2	70.10417	-1283.12280	-1472.46765
+natural_diff_token
+	natural_diff_token
+		google-bert/bert-base-uncased	50.75521	-167.71833	-268.87234
+		google-bert/bert-large-uncased	55.39063	-181.43723	-332.58474
+		openai-community/gpt2	50.33854	-1175.45581	-1419.52637
+natural_single_token
+	natural_single_token
+		google-bert/bert-base-uncased	70.28646	-252.09009	-375.57390
+		google-bert/bert-large-uncased	82.52604	-242.10559	-406.19215
+		openai-community/gpt2	72.73438	-1316.09900	-1531.82800
+natural_multi_token
+	natural_multi_token
+		google-bert/bert-base-uncased	79.79167	-29.53873	-46.92450
+		google-bert/bert-large-uncased	84.60938	-28.53197	-50.30205
+		openai-community/gpt2	62.68229	-755.56781	-949.88318
