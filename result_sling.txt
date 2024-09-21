@@ -46,3 +46,18 @@ natural_multi_token
 		google-bert/bert-base-uncased	79.79167	-29.53873	-46.92450
 		google-bert/bert-large-uncased	84.60938	-28.53197	-50.30205
 		openai-community/gpt2	62.68229	-755.56781	-949.88318
+natural_diff_token
+	natural_diff_token
+		google-bert/bert-base-uncased	50.75521	-167.71833	-268.87234
+		google-bert/bert-large-uncased	55.39063	-181.43723	-332.58474
+		openai-community/gpt2	50.33854	-1175.45581	-1419.52637
+natural_single_token
+	natural_single_token
+		google-bert/bert-base-uncased	77.76042	-217.82270	-366.48502
+		google-bert/bert-large-uncased	80.33854	-241.83271	-438.93841
+		openai-community/gpt2	68.12500	-1199.56689	-1373.14673
+natural_multi_token
+	natural_multi_token
+		google-bert/bert-base-uncased	79.79167	-29.53873	-46.92450
+		google-bert/bert-large-uncased	84.60938	-28.53197	-50.30205
+		openai-community/gpt2	62.68229	-755.56781	-949.88318
