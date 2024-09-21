@@ -8,15 +8,15 @@ parser.add_argument("--metric", type=str, default="perplexity")
 args = parser.parse_args()
 
 # Read in SLING data
-sling_files = glob.glob("/local/xiulyang/wug/data/natural.jsonl", recursive=True)
+sling_files = glob.glob("/local/xiulyang/wug/exp_data/*.jsonl", recursive=True)
 print(sling_files)
-mp_dict_list = []
+
 for sling_file in sling_files:
     dir = sling_file.split("/")
     phenomenon = dir[-1].replace(".jsonl", "")
     paradigm = dir[-1].replace(".jsonl", "")
     good_sent, bad_sent = [], []
-
+    mp_dict_list = []
     with open(sling_file, "r") as file:
         mp_dict_list.extend([json.loads(x) for x in file.read().strip().split("\n")])
 
