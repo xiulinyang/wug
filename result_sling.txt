@@ -61,3 +61,15 @@ natural_multi_token
 		google-bert/bert-base-uncased	79.79167	-29.53873	-46.92450
 		google-bert/bert-large-uncased	84.60938	-28.53197	-50.30205
 		openai-community/gpt2	62.68229	-755.56781	-949.88318
+pseudo_same
+	pseudo_same
+		google-bert/bert-base-uncased	58.33333	-556.03519	-629.55242
+		google-bert/bert-large-uncased	64.66146	-474.32623	-594.91558
+		openai-community/gpt2	60.88542	-1615.64075	-1789.86487
+pseudo_diff
+	pseudo_diff
+		google-bert/bert-base-uncased	45.72917	-570.91383	-553.81068
+		google-bert/bert-large-uncased	31.56250	-606.12121	-511.97347
+		openai-community/gpt2	49.14063	-2126.51343	-2155.24487
+irregular_plural_subject_verb_agreement_1
+	irregular_plural_subject_verb_agreement_1
