@@ -38,20 +38,28 @@ transitivity_sorted = [y for x in transitivity_sorted for y in x]
 #     if x[-1] =='s' and x in transitivity_sorted:
 #         print(x)
 
-diff =[]
-with open('data/pseudo.jsonl', 'r') as p:
+c=0
+
+with open('blimp/irregular_plural_subject_verb_agreement_1.jsonl', 'r') as p, open('blimp/irregular_plural_subject_verb_agreement_1_same.jsonl', 'w') as sa, open('blimp/irregular_plural_subject_verb_agreement_1_diff.jsonl', 'w') as di:
     for f in p.readlines():
         result = json.loads(f)
-        tokenized_single = tokenizer1.tokenize(result['sentence_good'][:-1].split()[-1])
-        tokenized_plural = tokenizer1.tokenize(result['sentence_bad'][:-1].split()[-1])
+        # tokenized_single = tokenizer1.tokenize(result['sentence_good'])
+        # tokenized_plural = tokenizer1.tokenize(result['sentence_bad'])
 
         tokenized_single2 = tokenizer2.tokenize(result['sentence_good'][:-1].split()[-1])
         tokenized_plural2 = tokenizer2.tokenize(result['sentence_bad'][:-1].split()[-1])
-        if len(tokenized_single) == len(tokenized_plural) and len(tokenized_single2) == len(tokenized_plural2):
-            if ''.join(tokenized_plural) not in diff:
-                diff.append(''.join(tokenized_plural))
+        if len(tokenized_single2) == len(tokenized_plural2):
+            json.dump(result, sa)
+            sa.write('\n')
+            c+=1
+        else:
+            json.dump(result, di)
+            di.write('\n')
 
-    print(diff)
+            # if ''.join(tokenized_plural) not in diff:
+            #     diff.append(''.join(tokenized_plural))
+
+    print(c)
 # with open('diff_tokens.txt', 'r') as d:
 #     for t in d.readlines():
 #         tokenized = tokenizer(t.strip())
