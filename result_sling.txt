@@ -80,3 +80,12 @@ irregular_plural_subject_verb_agreement_1_same
 irregular_plural_subject_verb_agreement_1_diff
 	irregular_plural_subject_verb_agreement_1_diff
 		openai-community/gpt2	88.23529	-1572.22815	-3096.50024
+irregular_plural_subject_verb_agreement_1
+	irregular_plural_subject_verb_agreement_1
+		openai-community/gpt2-large	89.50000	-1091.49915	-1987.74023
+irregular_plural_subject_verb_agreement_1_same
+	irregular_plural_subject_verb_agreement_1_same
+		openai-community/gpt2-large	89.62360	-1083.64465	-1976.53552
+irregular_plural_subject_verb_agreement_1_diff
+	irregular_plural_subject_verb_agreement_1_diff
+		openai-community/gpt2-large	82.35294	-1657.38562	-2756.08521
