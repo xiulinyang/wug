@@ -75,7 +75,7 @@ for sling_file in sling_files:
     # Causal LMs #
     ##############
 
-    causal_lm_names = ["openai-community/gpt2"]
+    causal_lm_names = ['openai-community/gpt2-large']
 
     i = 1
 
