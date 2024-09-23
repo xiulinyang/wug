@@ -8,7 +8,7 @@ parser.add_argument("--metric", type=str, default="perplexity")
 args = parser.parse_args()
 
 # Read in SLING data
-sling_files = glob.glob("/local/xiulyang/wug/exp_data/*.jsonl", recursive=True)
+sling_files = glob.glob("/local/xiulyang/wug/data_pseudo/*.jsonl", recursive=True)
 print(sling_files)
 
 for sling_file in sling_files:

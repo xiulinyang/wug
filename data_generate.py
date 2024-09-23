@@ -1,6 +1,6 @@
 import pandas as pd
 import json
-# with open('data/natural.jsonl', 'w') as natural, open('data/pseudo.jsonl', 'w') as pseudo:
+# with open('data/pseudo_same.jsonl', 'w') as natural, open('data/pseudo.jsonl', 'w') as pseudo:
 #     sub= pd.read_pickle('subj_rel.pickle')
 #     for k, v in sub.items():
 #         for v1, v2 in v:

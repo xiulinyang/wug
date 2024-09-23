@@ -1,13 +1,15 @@
+import json
+
 import pandas as pd
 import spacy
 from transformers import pipeline, AutoTokenizer, AutoModelForMaskedLM
 
 nlp = spacy.load('en_core_web_sm')
-# model = 'google-bert/bert-base-uncased'
+model1 = 'google-bert/bert-base-uncased'
 
-model = 'openai-community/gpt2'
-tokenizer = AutoTokenizer.from_pretrained(model)
-
+model2 = 'openai-community/gpt2'
+tokenizer1 = AutoTokenizer.from_pretrained(model1)
+tokenizer2 = AutoTokenizer.from_pretrained(model2)
 
 transitivity = pd.read_csv('verb_transitivity.tsv', sep='\t')[['verb', 'intrans', 'percent_intrans']]
 transitivity_sorted = transitivity.sort_values(by='intrans', ascending=False)
@@ -35,13 +37,28 @@ transitivity_sorted = [y for x in transitivity_sorted for y in x]
 # for x in tokenizer.vocab:
 #     if x[-1] =='s' and x in transitivity_sorted:
 #         print(x)
-with open('diff_tokens.txt', 'r') as d:
-    for t in d.readlines():
-        tokenized = tokenizer(t.strip())
-        tokenized2 = tokenizer(t.strip()+'s')
-        if len(tokenizer(t.strip())) == len(tokenizer(t.strip()+'s')):
-            print(t)
-            print(tokenizer.convert_ids_to_tokens(tokenized.input_ids), tokenizer.convert_ids_to_tokens(tokenized2.input_ids))
+
+diff =[]
+with open('data/pseudo.jsonl', 'r') as p:
+    for f in p.readlines():
+        result = json.loads(f)
+        tokenized_single = tokenizer1.tokenize(result['sentence_good'][:-1].split()[-1])
+        tokenized_plural = tokenizer1.tokenize(result['sentence_bad'][:-1].split()[-1])
+
+        tokenized_single2 = tokenizer2.tokenize(result['sentence_good'][:-1].split()[-1])
+        tokenized_plural2 = tokenizer2.tokenize(result['sentence_bad'][:-1].split()[-1])
+        if len(tokenized_single) == len(tokenized_plural) and len(tokenized_single2) == len(tokenized_plural2):
+            if ''.join(tokenized_plural) not in diff:
+                diff.append(''.join(tokenized_plural))
+
+    print(diff)
+# with open('diff_tokens.txt', 'r') as d:
+#     for t in d.readlines():
+#         tokenized = tokenizer(t.strip())
+#         tokenized2 = tokenizer(t.strip()+'s')
+#         if len(tokenizer(t.strip())) == len(tokenizer(t.strip()+'s')):
+#             print(t)
+#             print(tokenizer.convert_ids_to_tokens(tokenized.input_ids), tokenizer.convert_ids_to_tokens(tokenized2.input_ids))
 
 '''
 lemmatize possible intransitive verbs
