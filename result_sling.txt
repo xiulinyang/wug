@@ -73,3 +73,10 @@ pseudo_diff
 		openai-community/gpt2	49.14063	-2126.51343	-2155.24487
 irregular_plural_subject_verb_agreement_1
 	irregular_plural_subject_verb_agreement_1
+		openai-community/gpt2	89.40000	-1094.80762	-1973.37134
+irregular_plural_subject_verb_agreement_1_same
+	irregular_plural_subject_verb_agreement_1_same
+		openai-community/gpt2	89.42014	-1087.97461	-1958.05542
+irregular_plural_subject_verb_agreement_1_diff
+	irregular_plural_subject_verb_agreement_1_diff
+		openai-community/gpt2	88.23529	-1572.22815	-3096.50024
