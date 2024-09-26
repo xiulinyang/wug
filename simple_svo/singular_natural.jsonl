@@ -1,429 +1,431 @@
-{"sentence_good": "He accepts.", "sentence_bad": "He accept.", "tokens_good": "He \u0120accepts .", "tokens_bad": "He \u0120accept ."}
-{"sentence_good": "He achieves.", "sentence_bad": "He achieve.", "tokens_good": "He \u0120achieves .", "tokens_bad": "He \u0120achieve ."}
-{"sentence_good": "He activates.", "sentence_bad": "He activate.", "tokens_good": "He \u0120activates .", "tokens_bad": "He \u0120activate ."}
-{"sentence_good": "He adds.", "sentence_bad": "He add.", "tokens_good": "He \u0120adds .", "tokens_bad": "He \u0120add ."}
-{"sentence_good": "He admits.", "sentence_bad": "He admit.", "tokens_good": "He \u0120admits .", "tokens_bad": "He \u0120admit ."}
-{"sentence_good": "He agrees.", "sentence_bad": "He agree.", "tokens_good": "He \u0120agrees .", "tokens_bad": "He \u0120agree ."}
-{"sentence_good": "He allows.", "sentence_bad": "He allow.", "tokens_good": "He \u0120allows .", "tokens_bad": "He \u0120allow ."}
-{"sentence_good": "He announces.", "sentence_bad": "He announce.", "tokens_good": "He \u0120announces .", "tokens_bad": "He \u0120announce ."}
-{"sentence_good": "He answers.", "sentence_bad": "He answer.", "tokens_good": "He \u0120answers .", "tokens_bad": "He \u0120answer ."}
-{"sentence_good": "He appears.", "sentence_bad": "He appear.", "tokens_good": "He \u0120appears .", "tokens_bad": "He \u0120appear ."}
-{"sentence_good": "He appraises.", "sentence_bad": "He appraise.", "tokens_good": "He \u0120appra ises .", "tokens_bad": "He \u0120appra ise ."}
-{"sentence_good": "He approves.", "sentence_bad": "He approve.", "tokens_good": "He \u0120approves .", "tokens_bad": "He \u0120approve ."}
-{"sentence_good": "He arises.", "sentence_bad": "He arise.", "tokens_good": "He \u0120arises .", "tokens_bad": "He \u0120arise ."}
-{"sentence_good": "He assures.", "sentence_bad": "He assure.", "tokens_good": "He \u0120assures .", "tokens_bad": "He \u0120assure ."}
-{"sentence_good": "He attacks.", "sentence_bad": "He attack.", "tokens_good": "He \u0120attacks .", "tokens_bad": "He \u0120attack ."}
-{"sentence_good": "He attends.", "sentence_bad": "He attend.", "tokens_good": "He \u0120attends .", "tokens_bad": "He \u0120attend ."}
-{"sentence_good": "He avoids.", "sentence_bad": "He avoid.", "tokens_good": "He \u0120avoids .", "tokens_bad": "He \u0120avoid ."}
-{"sentence_good": "He bans.", "sentence_bad": "He ban.", "tokens_good": "He \u0120bans .", "tokens_bad": "He \u0120ban ."}
-{"sentence_good": "He bats.", "sentence_bad": "He bat.", "tokens_good": "He \u0120bats .", "tokens_bad": "He \u0120bat ."}
-{"sentence_good": "He bathes.", "sentence_bad": "He bathe.", "tokens_good": "He \u0120bat hes .", "tokens_bad": "He \u0120bat he ."}
-{"sentence_good": "He battles.", "sentence_bad": "He battle.", "tokens_good": "He \u0120battles .", "tokens_bad": "He \u0120battle ."}
-{"sentence_good": "He bes.", "sentence_bad": "He be.", "tokens_good": "He \u0120bes .", "tokens_bad": "He \u0120be ."}
-{"sentence_good": "He beams.", "sentence_bad": "He beam.", "tokens_good": "He \u0120beams .", "tokens_bad": "He \u0120beam ."}
-{"sentence_good": "He beats.", "sentence_bad": "He beat.", "tokens_good": "He \u0120beats .", "tokens_bad": "He \u0120beat ."}
-{"sentence_good": "He becomes.", "sentence_bad": "He become.", "tokens_good": "He \u0120becomes .", "tokens_bad": "He \u0120become ."}
-{"sentence_good": "He begs.", "sentence_bad": "He beg.", "tokens_good": "He \u0120begs .", "tokens_bad": "He \u0120beg ."}
-{"sentence_good": "He begins.", "sentence_bad": "He begin.", "tokens_good": "He \u0120begins .", "tokens_bad": "He \u0120begin ."}
-{"sentence_good": "He belongs.", "sentence_bad": "He belong.", "tokens_good": "He \u0120belongs .", "tokens_bad": "He \u0120belong ."}
-{"sentence_good": "He bets.", "sentence_bad": "He bet.", "tokens_good": "He \u0120bets .", "tokens_bad": "He \u0120bet ."}
-{"sentence_good": "He blows.", "sentence_bad": "He blow.", "tokens_good": "He \u0120blows .", "tokens_bad": "He \u0120blow ."}
-{"sentence_good": "He boasts.", "sentence_bad": "He boast.", "tokens_good": "He \u0120boasts .", "tokens_bad": "He \u0120boast ."}
-{"sentence_good": "He boils.", "sentence_bad": "He boil.", "tokens_good": "He \u0120boils .", "tokens_bad": "He \u0120boil ."}
-{"sentence_good": "He bombs.", "sentence_bad": "He bomb.", "tokens_good": "He \u0120bombs .", "tokens_bad": "He \u0120bomb ."}
-{"sentence_good": "He bows.", "sentence_bad": "He bow.", "tokens_good": "He \u0120bows .", "tokens_bad": "He \u0120bow ."}
-{"sentence_good": "He brakes.", "sentence_bad": "He brake.", "tokens_good": "He \u0120brakes .", "tokens_bad": "He \u0120brake ."}
-{"sentence_good": "He breaks.", "sentence_bad": "He break.", "tokens_good": "He \u0120breaks .", "tokens_bad": "He \u0120break ."}
-{"sentence_good": "He brings.", "sentence_bad": "He bring.", "tokens_good": "He \u0120brings .", "tokens_bad": "He \u0120bring ."}
-{"sentence_good": "He burns.", "sentence_bad": "He burn.", "tokens_good": "He \u0120burns .", "tokens_bad": "He \u0120burn ."}
-{"sentence_good": "He buys.", "sentence_bad": "He buy.", "tokens_good": "He \u0120buys .", "tokens_bad": "He \u0120buy ."}
-{"sentence_good": "He calculates.", "sentence_bad": "He calculate.", "tokens_good": "He \u0120calculates .", "tokens_bad": "He \u0120calculate ."}
-{"sentence_good": "He camps.", "sentence_bad": "He camp.", "tokens_good": "He \u0120camps .", "tokens_bad": "He \u0120camp ."}
-{"sentence_good": "He cares.", "sentence_bad": "He care.", "tokens_good": "He \u0120cares .", "tokens_bad": "He \u0120care ."}
-{"sentence_good": "He casts.", "sentence_bad": "He cast.", "tokens_good": "He \u0120casts .", "tokens_bad": "He \u0120cast ."}
-{"sentence_good": "He causes.", "sentence_bad": "He cause.", "tokens_good": "He \u0120causes .", "tokens_bad": "He \u0120cause ."}
-{"sentence_good": "He challenges.", "sentence_bad": "He challenge.", "tokens_good": "He \u0120challenges .", "tokens_bad": "He \u0120challenge ."}
-{"sentence_good": "He charts.", "sentence_bad": "He chart.", "tokens_good": "He \u0120charts .", "tokens_bad": "He \u0120chart ."}
-{"sentence_good": "He cheers.", "sentence_bad": "He cheer.", "tokens_good": "He \u0120cheers .", "tokens_bad": "He \u0120cheer ."}
-{"sentence_good": "He chooses.", "sentence_bad": "He choose.", "tokens_good": "He \u0120chooses .", "tokens_bad": "He \u0120choose ."}
-{"sentence_good": "He chops.", "sentence_bad": "He chop.", "tokens_good": "He \u0120chops .", "tokens_bad": "He \u0120chop ."}
-{"sentence_good": "He claims.", "sentence_bad": "He claim.", "tokens_good": "He \u0120claims .", "tokens_bad": "He \u0120claim ."}
-{"sentence_good": "He claps.", "sentence_bad": "He clap.", "tokens_good": "He \u0120cl aps .", "tokens_bad": "He \u0120cl ap ."}
-{"sentence_good": "He cleans.", "sentence_bad": "He clean.", "tokens_good": "He \u0120cleans .", "tokens_bad": "He \u0120clean ."}
-{"sentence_good": "He clears.", "sentence_bad": "He clear.", "tokens_good": "He \u0120clears .", "tokens_bad": "He \u0120clear ."}
-{"sentence_good": "He clips.", "sentence_bad": "He clip.", "tokens_good": "He \u0120clips .", "tokens_bad": "He \u0120clip ."}
-{"sentence_good": "He closes.", "sentence_bad": "He close.", "tokens_good": "He \u0120closes .", "tokens_bad": "He \u0120close ."}
-{"sentence_good": "He comes.", "sentence_bad": "He come.", "tokens_good": "He \u0120comes .", "tokens_bad": "He \u0120come ."}
-{"sentence_good": "He communicates.", "sentence_bad": "He communicate.", "tokens_good": "He \u0120communicates .", "tokens_bad": "He \u0120communicate ."}
-{"sentence_good": "He complains.", "sentence_bad": "He complain.", "tokens_good": "He \u0120complains .", "tokens_bad": "He \u0120complain ."}
-{"sentence_good": "He completes.", "sentence_bad": "He complete.", "tokens_good": "He \u0120completes .", "tokens_bad": "He \u0120complete ."}
-{"sentence_good": "He concludes.", "sentence_bad": "He conclude.", "tokens_good": "He \u0120concludes .", "tokens_bad": "He \u0120conclude ."}
-{"sentence_good": "He conducts.", "sentence_bad": "He conduct.", "tokens_good": "He \u0120conducts .", "tokens_bad": "He \u0120conduct ."}
-{"sentence_good": "He contains.", "sentence_bad": "He contain.", "tokens_good": "He \u0120contains .", "tokens_bad": "He \u0120contain ."}
-{"sentence_good": "He continues.", "sentence_bad": "He continue.", "tokens_good": "He \u0120continues .", "tokens_bad": "He \u0120continue ."}
-{"sentence_good": "He controls.", "sentence_bad": "He control.", "tokens_good": "He \u0120controls .", "tokens_bad": "He \u0120control ."}
-{"sentence_good": "He converts.", "sentence_bad": "He convert.", "tokens_good": "He \u0120converts .", "tokens_bad": "He \u0120convert ."}
-{"sentence_good": "He correlates.", "sentence_bad": "He correlate.", "tokens_good": "He \u0120correlates .", "tokens_bad": "He \u0120correlate ."}
-{"sentence_good": "He covers.", "sentence_bad": "He cover.", "tokens_good": "He \u0120covers .", "tokens_bad": "He \u0120cover ."}
-{"sentence_good": "He cracks.", "sentence_bad": "He crack.", "tokens_good": "He \u0120cracks .", "tokens_bad": "He \u0120crack ."}
-{"sentence_good": "He creates.", "sentence_bad": "He create.", "tokens_good": "He \u0120creates .", "tokens_bad": "He \u0120create ."}
-{"sentence_good": "He creeps.", "sentence_bad": "He creep.", "tokens_good": "He \u0120creeps .", "tokens_bad": "He \u0120creep ."}
-{"sentence_good": "He critiques.", "sentence_bad": "He critique.", "tokens_good": "He \u0120critiques .", "tokens_bad": "He \u0120critique ."}
-{"sentence_good": "He cures.", "sentence_bad": "He cure.", "tokens_good": "He \u0120cures .", "tokens_bad": "He \u0120cure ."}
-{"sentence_good": "He curls.", "sentence_bad": "He curl.", "tokens_good": "He \u0120curls .", "tokens_bad": "He \u0120curl ."}
-{"sentence_good": "He cuts.", "sentence_bad": "He cut.", "tokens_good": "He \u0120cuts .", "tokens_bad": "He \u0120cut ."}
-{"sentence_good": "He dams.", "sentence_bad": "He dam.", "tokens_good": "He \u0120dams .", "tokens_bad": "He \u0120dam ."}
-{"sentence_good": "He damages.", "sentence_bad": "He damage.", "tokens_good": "He \u0120damages .", "tokens_bad": "He \u0120damage ."}
-{"sentence_good": "He deals.", "sentence_bad": "He deal.", "tokens_good": "He \u0120deals .", "tokens_bad": "He \u0120deal ."}
-{"sentence_good": "He decides.", "sentence_bad": "He decide.", "tokens_good": "He \u0120decides .", "tokens_bad": "He \u0120decide ."}
-{"sentence_good": "He depends.", "sentence_bad": "He depend.", "tokens_good": "He \u0120depends .", "tokens_bad": "He \u0120depend ."}
-{"sentence_good": "He describes.", "sentence_bad": "He describe.", "tokens_good": "He \u0120describes .", "tokens_bad": "He \u0120describe ."}
-{"sentence_good": "He designs.", "sentence_bad": "He design.", "tokens_good": "He \u0120designs .", "tokens_bad": "He \u0120design ."}
-{"sentence_good": "He details.", "sentence_bad": "He detail.", "tokens_good": "He \u0120details .", "tokens_bad": "He \u0120detail ."}
-{"sentence_good": "He detects.", "sentence_bad": "He detect.", "tokens_good": "He \u0120detects .", "tokens_bad": "He \u0120detect ."}
-{"sentence_good": "He develops.", "sentence_bad": "He develop.", "tokens_good": "He \u0120develops .", "tokens_bad": "He \u0120develop ."}
-{"sentence_good": "He diagnoses.", "sentence_bad": "He diagnose.", "tokens_good": "He \u0120diagnoses .", "tokens_bad": "He \u0120diagnose ."}
-{"sentence_good": "He directs.", "sentence_bad": "He direct.", "tokens_good": "He \u0120directs .", "tokens_bad": "He \u0120direct ."}
-{"sentence_good": "He disagrees.", "sentence_bad": "He disagree.", "tokens_good": "He \u0120disagrees .", "tokens_bad": "He \u0120disagree ."}
-{"sentence_good": "He disappears.", "sentence_bad": "He disappear.", "tokens_good": "He \u0120disappears .", "tokens_bad": "He \u0120disappear ."}
-{"sentence_good": "He dispenses.", "sentence_bad": "He dispense.", "tokens_good": "He \u0120disp enses .", "tokens_bad": "He \u0120disp ense ."}
-{"sentence_good": "He disproves.", "sentence_bad": "He disprove.", "tokens_good": "He \u0120dispro ves .", "tokens_bad": "He \u0120dispro ve ."}
-{"sentence_good": "He divides.", "sentence_bad": "He divide.", "tokens_good": "He \u0120divides .", "tokens_bad": "He \u0120divide ."}
-{"sentence_good": "He doubles.", "sentence_bad": "He double.", "tokens_good": "He \u0120doubles .", "tokens_bad": "He \u0120double ."}
-{"sentence_good": "He drafts.", "sentence_bad": "He draft.", "tokens_good": "He \u0120drafts .", "tokens_bad": "He \u0120draft ."}
-{"sentence_good": "He drains.", "sentence_bad": "He drain.", "tokens_good": "He \u0120drains .", "tokens_bad": "He \u0120drain ."}
-{"sentence_good": "He dramatizes.", "sentence_bad": "He dramatize.", "tokens_good": "He \u0120dram at izes .", "tokens_bad": "He \u0120dram at ize ."}
-{"sentence_good": "He draws.", "sentence_bad": "He draw.", "tokens_good": "He \u0120draws .", "tokens_bad": "He \u0120draw ."}
-{"sentence_good": "He dreams.", "sentence_bad": "He dream.", "tokens_good": "He \u0120dreams .", "tokens_bad": "He \u0120dream ."}
-{"sentence_good": "He drinks.", "sentence_bad": "He drink.", "tokens_good": "He \u0120drinks .", "tokens_bad": "He \u0120drink ."}
-{"sentence_good": "He drives.", "sentence_bad": "He drive.", "tokens_good": "He \u0120drives .", "tokens_bad": "He \u0120drive ."}
-{"sentence_good": "He drops.", "sentence_bad": "He drop.", "tokens_good": "He \u0120drops .", "tokens_bad": "He \u0120drop ."}
-{"sentence_good": "He drums.", "sentence_bad": "He drum.", "tokens_good": "He \u0120drums .", "tokens_bad": "He \u0120drum ."}
-{"sentence_good": "He eats.", "sentence_bad": "He eat.", "tokens_good": "He \u0120eats .", "tokens_bad": "He \u0120eat ."}
-{"sentence_good": "He eliminates.", "sentence_bad": "He eliminate.", "tokens_good": "He \u0120eliminates .", "tokens_bad": "He \u0120eliminate ."}
-{"sentence_good": "He employs.", "sentence_bad": "He employ.", "tokens_good": "He \u0120employs .", "tokens_bad": "He \u0120employ ."}
-{"sentence_good": "He engineers.", "sentence_bad": "He engineer.", "tokens_good": "He \u0120engineers .", "tokens_bad": "He \u0120engineer ."}
-{"sentence_good": "He enhances.", "sentence_bad": "He enhance.", "tokens_good": "He \u0120enhances .", "tokens_bad": "He \u0120enhance ."}
-{"sentence_good": "He enjoys.", "sentence_bad": "He enjoy.", "tokens_good": "He \u0120enjoys .", "tokens_bad": "He \u0120enjoy ."}
-{"sentence_good": "He ensures.", "sentence_bad": "He ensure.", "tokens_good": "He \u0120ensures .", "tokens_bad": "He \u0120ensure ."}
-{"sentence_good": "He enters.", "sentence_bad": "He enter.", "tokens_good": "He \u0120enters .", "tokens_bad": "He \u0120enter ."}
-{"sentence_good": "He escapes.", "sentence_bad": "He escape.", "tokens_good": "He \u0120escapes .", "tokens_bad": "He \u0120escape ."}
-{"sentence_good": "He estimates.", "sentence_bad": "He estimate.", "tokens_good": "He \u0120estimates .", "tokens_bad": "He \u0120estimate ."}
-{"sentence_good": "He evaluates.", "sentence_bad": "He evaluate.", "tokens_good": "He \u0120evaluates .", "tokens_bad": "He \u0120evaluate ."}
-{"sentence_good": "He excites.", "sentence_bad": "He excite.", "tokens_good": "He \u0120exc ites .", "tokens_bad": "He \u0120exc ite ."}
-{"sentence_good": "He excuses.", "sentence_bad": "He excuse.", "tokens_good": "He \u0120excuses .", "tokens_bad": "He \u0120excuse ."}
-{"sentence_good": "He expedites.", "sentence_bad": "He expedite.", "tokens_good": "He \u0120exped ites .", "tokens_bad": "He \u0120exped ite ."}
-{"sentence_good": "He explains.", "sentence_bad": "He explain.", "tokens_good": "He \u0120explains .", "tokens_bad": "He \u0120explain ."}
-{"sentence_good": "He extends.", "sentence_bad": "He extend.", "tokens_good": "He \u0120extends .", "tokens_bad": "He \u0120extend ."}
-{"sentence_good": "He extracts.", "sentence_bad": "He extract.", "tokens_good": "He \u0120extracts .", "tokens_bad": "He \u0120extract ."}
-{"sentence_good": "He faces.", "sentence_bad": "He face.", "tokens_good": "He \u0120faces .", "tokens_bad": "He \u0120face ."}
-{"sentence_good": "He fails.", "sentence_bad": "He fail.", "tokens_good": "He \u0120fails .", "tokens_bad": "He \u0120fail ."}
-{"sentence_good": "He fastens.", "sentence_bad": "He fasten.", "tokens_good": "He \u0120fast ens .", "tokens_bad": "He \u0120fast en ."}
-{"sentence_good": "He fears.", "sentence_bad": "He fear.", "tokens_good": "He \u0120fears .", "tokens_bad": "He \u0120fear ."}
-{"sentence_good": "He feeds.", "sentence_bad": "He feed.", "tokens_good": "He \u0120feeds .", "tokens_bad": "He \u0120feed ."}
-{"sentence_good": "He feels.", "sentence_bad": "He feel.", "tokens_good": "He \u0120feels .", "tokens_bad": "He \u0120feel ."}
-{"sentence_good": "He files.", "sentence_bad": "He file.", "tokens_good": "He \u0120files .", "tokens_bad": "He \u0120file ."}
-{"sentence_good": "He fills.", "sentence_bad": "He fill.", "tokens_good": "He \u0120fills .", "tokens_bad": "He \u0120fill ."}
-{"sentence_good": "He films.", "sentence_bad": "He film.", "tokens_good": "He \u0120films .", "tokens_bad": "He \u0120film ."}
-{"sentence_good": "He finalizes.", "sentence_bad": "He finalize.", "tokens_good": "He \u0120final izes .", "tokens_bad": "He \u0120final ize ."}
-{"sentence_good": "He finds.", "sentence_bad": "He find.", "tokens_good": "He \u0120finds .", "tokens_bad": "He \u0120find ."}
-{"sentence_good": "He fits.", "sentence_bad": "He fit.", "tokens_good": "He \u0120fits .", "tokens_bad": "He \u0120fit ."}
-{"sentence_good": "He flings.", "sentence_bad": "He fling.", "tokens_good": "He \u0120fl ings .", "tokens_bad": "He \u0120fl ing ."}
-{"sentence_good": "He floats.", "sentence_bad": "He float.", "tokens_good": "He \u0120floats .", "tokens_bad": "He \u0120float ."}
-{"sentence_good": "He flows.", "sentence_bad": "He flow.", "tokens_good": "He \u0120flows .", "tokens_bad": "He \u0120flow ."}
-{"sentence_good": "He folds.", "sentence_bad": "He fold.", "tokens_good": "He \u0120folds .", "tokens_bad": "He \u0120fold ."}
-{"sentence_good": "He follows.", "sentence_bad": "He follow.", "tokens_good": "He \u0120follows .", "tokens_bad": "He \u0120follow ."}
-{"sentence_good": "He fools.", "sentence_bad": "He fool.", "tokens_good": "He \u0120fools .", "tokens_bad": "He \u0120fool ."}
-{"sentence_good": "He forbids.", "sentence_bad": "He forbid.", "tokens_good": "He \u0120forbids .", "tokens_bad": "He \u0120forbid ."}
-{"sentence_good": "He forms.", "sentence_bad": "He form.", "tokens_good": "He \u0120forms .", "tokens_bad": "He \u0120form ."}
-{"sentence_good": "He forsakes.", "sentence_bad": "He forsake.", "tokens_good": "He \u0120fors akes .", "tokens_bad": "He \u0120fors ake ."}
-{"sentence_good": "He freezes.", "sentence_bad": "He freeze.", "tokens_good": "He \u0120freezes .", "tokens_bad": "He \u0120freeze ."}
-{"sentence_good": "He frightens.", "sentence_bad": "He frighten.", "tokens_good": "He \u0120fright ens .", "tokens_bad": "He \u0120fright en ."}
-{"sentence_good": "He generates.", "sentence_bad": "He generate.", "tokens_good": "He \u0120generates .", "tokens_bad": "He \u0120generate ."}
-{"sentence_good": "He grabs.", "sentence_bad": "He grab.", "tokens_good": "He \u0120grabs .", "tokens_bad": "He \u0120grab ."}
-{"sentence_good": "He graduates.", "sentence_bad": "He graduate.", "tokens_good": "He \u0120graduates .", "tokens_bad": "He \u0120graduate ."}
-{"sentence_good": "He greets.", "sentence_bad": "He greet.", "tokens_good": "He \u0120greets .", "tokens_bad": "He \u0120greet ."}
-{"sentence_good": "He groans.", "sentence_bad": "He groan.", "tokens_good": "He \u0120gro ans .", "tokens_bad": "He \u0120gro an ."}
-{"sentence_good": "He grows.", "sentence_bad": "He grow.", "tokens_good": "He \u0120grows .", "tokens_bad": "He \u0120grow ."}
-{"sentence_good": "He guarantees.", "sentence_bad": "He guarantee.", "tokens_good": "He \u0120guarantees .", "tokens_bad": "He \u0120guarantee ."}
-{"sentence_good": "He guides.", "sentence_bad": "He guide.", "tokens_good": "He \u0120guides .", "tokens_bad": "He \u0120guide ."}
-{"sentence_good": "He hands.", "sentence_bad": "He hand.", "tokens_good": "He \u0120hands .", "tokens_bad": "He \u0120hand ."}
-{"sentence_good": "He handles.", "sentence_bad": "He handle.", "tokens_good": "He \u0120handles .", "tokens_bad": "He \u0120handle ."}
-{"sentence_good": "He harms.", "sentence_bad": "He harm.", "tokens_good": "He \u0120harms .", "tokens_bad": "He \u0120harm ."}
-{"sentence_good": "He hates.", "sentence_bad": "He hate.", "tokens_good": "He \u0120hates .", "tokens_bad": "He \u0120hate ."}
-{"sentence_good": "He heads.", "sentence_bad": "He head.", "tokens_good": "He \u0120heads .", "tokens_bad": "He \u0120head ."}
-{"sentence_good": "He heals.", "sentence_bad": "He heal.", "tokens_good": "He \u0120heals .", "tokens_bad": "He \u0120heal ."}
-{"sentence_good": "He hears.", "sentence_bad": "He hear.", "tokens_good": "He \u0120hears .", "tokens_bad": "He \u0120hear ."}
-{"sentence_good": "He heats.", "sentence_bad": "He heat.", "tokens_good": "He \u0120heats .", "tokens_bad": "He \u0120heat ."}
-{"sentence_good": "He helps.", "sentence_bad": "He help.", "tokens_good": "He \u0120helps .", "tokens_bad": "He \u0120help ."}
-{"sentence_good": "He hides.", "sentence_bad": "He hide.", "tokens_good": "He \u0120hides .", "tokens_bad": "He \u0120hide ."}
-{"sentence_good": "He hits.", "sentence_bad": "He hit.", "tokens_good": "He \u0120hits .", "tokens_bad": "He \u0120hit ."}
-{"sentence_good": "He holds.", "sentence_bad": "He hold.", "tokens_good": "He \u0120holds .", "tokens_bad": "He \u0120hold ."}
-{"sentence_good": "He hooks.", "sentence_bad": "He hook.", "tokens_good": "He \u0120hooks .", "tokens_bad": "He \u0120hook ."}
-{"sentence_good": "He hopes.", "sentence_bad": "He hope.", "tokens_good": "He \u0120hopes .", "tokens_bad": "He \u0120hope ."}
-{"sentence_good": "He hunts.", "sentence_bad": "He hunt.", "tokens_good": "He \u0120hunts .", "tokens_bad": "He \u0120hunt ."}
-{"sentence_good": "He hurts.", "sentence_bad": "He hurt.", "tokens_good": "He \u0120hurts .", "tokens_bad": "He \u0120hurt ."}
-{"sentence_good": "He implements.", "sentence_bad": "He implement.", "tokens_good": "He \u0120implements .", "tokens_bad": "He \u0120implement ."}
-{"sentence_good": "He improves.", "sentence_bad": "He improve.", "tokens_good": "He \u0120improves .", "tokens_bad": "He \u0120improve ."}
-{"sentence_good": "He includes.", "sentence_bad": "He include.", "tokens_good": "He \u0120includes .", "tokens_bad": "He \u0120include ."}
-{"sentence_good": "He increases.", "sentence_bad": "He increase.", "tokens_good": "He \u0120increases .", "tokens_bad": "He \u0120increase ."}
-{"sentence_good": "He inputs.", "sentence_bad": "He input.", "tokens_good": "He \u0120inputs .", "tokens_bad": "He \u0120input ."}
-{"sentence_good": "He inspires.", "sentence_bad": "He inspire.", "tokens_good": "He \u0120inspires .", "tokens_bad": "He \u0120inspire ."}
-{"sentence_good": "He installs.", "sentence_bad": "He install.", "tokens_good": "He \u0120installs .", "tokens_bad": "He \u0120install ."}
-{"sentence_good": "He integrates.", "sentence_bad": "He integrate.", "tokens_good": "He \u0120integrates .", "tokens_bad": "He \u0120integrate ."}
-{"sentence_good": "He intends.", "sentence_bad": "He intend.", "tokens_good": "He \u0120intends .", "tokens_bad": "He \u0120intend ."}
-{"sentence_good": "He invites.", "sentence_bad": "He invite.", "tokens_good": "He \u0120invites .", "tokens_bad": "He \u0120invite ."}
-{"sentence_good": "He irritates.", "sentence_bad": "He irritate.", "tokens_good": "He \u0120irrit ates .", "tokens_bad": "He \u0120irrit ate ."}
-{"sentence_good": "He jails.", "sentence_bad": "He jail.", "tokens_good": "He \u0120jails .", "tokens_bad": "He \u0120jail ."}
-{"sentence_good": "He joins.", "sentence_bad": "He join.", "tokens_good": "He \u0120joins .", "tokens_bad": "He \u0120join ."}
-{"sentence_good": "He jokes.", "sentence_bad": "He joke.", "tokens_good": "He \u0120jokes .", "tokens_bad": "He \u0120joke ."}
-{"sentence_good": "He juggles.", "sentence_bad": "He juggle.", "tokens_good": "He \u0120jugg les .", "tokens_bad": "He \u0120jugg le ."}
-{"sentence_good": "He keeps.", "sentence_bad": "He keep.", "tokens_good": "He \u0120keeps .", "tokens_bad": "He \u0120keep ."}
-{"sentence_good": "He kills.", "sentence_bad": "He kill.", "tokens_good": "He \u0120kills .", "tokens_bad": "He \u0120kill ."}
-{"sentence_good": "He kneels.", "sentence_bad": "He kneel.", "tokens_good": "He \u0120kne els .", "tokens_bad": "He \u0120kne el ."}
-{"sentence_good": "He knocks.", "sentence_bad": "He knock.", "tokens_good": "He \u0120knocks .", "tokens_bad": "He \u0120knock ."}
-{"sentence_good": "He knots.", "sentence_bad": "He knot.", "tokens_good": "He \u0120knots .", "tokens_bad": "He \u0120knot ."}
-{"sentence_good": "He knows.", "sentence_bad": "He know.", "tokens_good": "He \u0120knows .", "tokens_bad": "He \u0120know ."}
-{"sentence_good": "He labels.", "sentence_bad": "He label.", "tokens_good": "He \u0120labels .", "tokens_bad": "He \u0120label ."}
-{"sentence_good": "He lands.", "sentence_bad": "He land.", "tokens_good": "He \u0120lands .", "tokens_bad": "He \u0120land ."}
-{"sentence_good": "He lays.", "sentence_bad": "He lay.", "tokens_good": "He \u0120lays .", "tokens_bad": "He \u0120lay ."}
-{"sentence_good": "He leans.", "sentence_bad": "He lean.", "tokens_good": "He \u0120leans .", "tokens_bad": "He \u0120lean ."}
-{"sentence_good": "He leaps.", "sentence_bad": "He leap.", "tokens_good": "He \u0120leaps .", "tokens_bad": "He \u0120leap ."}
-{"sentence_good": "He lectures.", "sentence_bad": "He lecture.", "tokens_good": "He \u0120lectures .", "tokens_bad": "He \u0120lecture ."}
-{"sentence_good": "He lets.", "sentence_bad": "He let.", "tokens_good": "He \u0120lets .", "tokens_bad": "He \u0120let ."}
-{"sentence_good": "He levels.", "sentence_bad": "He level.", "tokens_good": "He \u0120levels .", "tokens_bad": "He \u0120level ."}
-{"sentence_good": "He licenses.", "sentence_bad": "He license.", "tokens_good": "He \u0120licenses .", "tokens_bad": "He \u0120license ."}
-{"sentence_good": "He lightens.", "sentence_bad": "He lighten.", "tokens_good": "He \u0120light ens .", "tokens_bad": "He \u0120light en ."}
-{"sentence_good": "He likes.", "sentence_bad": "He like.", "tokens_good": "He \u0120likes .", "tokens_bad": "He \u0120like ."}
-{"sentence_good": "He listens.", "sentence_bad": "He listen.", "tokens_good": "He \u0120listens .", "tokens_bad": "He \u0120listen ."}
-{"sentence_good": "He looks.", "sentence_bad": "He look.", "tokens_good": "He \u0120looks .", "tokens_bad": "He \u0120look ."}
-{"sentence_good": "He loses.", "sentence_bad": "He lose.", "tokens_good": "He \u0120loses .", "tokens_bad": "He \u0120lose ."}
-{"sentence_good": "He loves.", "sentence_bad": "He love.", "tokens_good": "He \u0120loves .", "tokens_bad": "He \u0120love ."}
-{"sentence_good": "He maintains.", "sentence_bad": "He maintain.", "tokens_good": "He \u0120maintains .", "tokens_bad": "He \u0120maintain ."}
-{"sentence_good": "He mans.", "sentence_bad": "He man.", "tokens_good": "He \u0120mans .", "tokens_bad": "He \u0120man ."}
-{"sentence_good": "He marks.", "sentence_bad": "He mark.", "tokens_good": "He \u0120marks .", "tokens_bad": "He \u0120mark ."}
-{"sentence_good": "He mates.", "sentence_bad": "He mate.", "tokens_good": "He \u0120mates .", "tokens_bad": "He \u0120mate ."}
-{"sentence_good": "He matters.", "sentence_bad": "He matter.", "tokens_good": "He \u0120matters .", "tokens_bad": "He \u0120matter ."}
-{"sentence_good": "He means.", "sentence_bad": "He mean.", "tokens_good": "He \u0120means .", "tokens_bad": "He \u0120mean ."}
-{"sentence_good": "He measures.", "sentence_bad": "He measure.", "tokens_good": "He \u0120measures .", "tokens_bad": "He \u0120measure ."}
-{"sentence_good": "He meddles.", "sentence_bad": "He meddle.", "tokens_good": "He \u0120medd les .", "tokens_bad": "He \u0120medd le ."}
-{"sentence_good": "He meets.", "sentence_bad": "He meet.", "tokens_good": "He \u0120meets .", "tokens_bad": "He \u0120meet ."}
-{"sentence_good": "He melts.", "sentence_bad": "He melt.", "tokens_good": "He \u0120melts .", "tokens_bad": "He \u0120melt ."}
-{"sentence_good": "He melts.", "sentence_bad": "He melt.", "tokens_good": "He \u0120melts .", "tokens_bad": "He \u0120melt ."}
-{"sentence_good": "He memorizes.", "sentence_bad": "He memorize.", "tokens_good": "He \u0120memor izes .", "tokens_bad": "He \u0120memor ize ."}
-{"sentence_good": "He mentors.", "sentence_bad": "He mentor.", "tokens_good": "He \u0120mentors .", "tokens_bad": "He \u0120mentor ."}
-{"sentence_good": "He mines.", "sentence_bad": "He mine.", "tokens_good": "He \u0120mines .", "tokens_bad": "He \u0120mine ."}
-{"sentence_good": "He mistakes.", "sentence_bad": "He mistake.", "tokens_good": "He \u0120mistakes .", "tokens_bad": "He \u0120mistake ."}
-{"sentence_good": "He models.", "sentence_bad": "He model.", "tokens_good": "He \u0120models .", "tokens_bad": "He \u0120model ."}
-{"sentence_good": "He moors.", "sentence_bad": "He moor.", "tokens_good": "He \u0120mo ors .", "tokens_bad": "He \u0120m oor ."}
-{"sentence_good": "He moves.", "sentence_bad": "He move.", "tokens_good": "He \u0120moves .", "tokens_bad": "He \u0120move ."}
-{"sentence_good": "He murders.", "sentence_bad": "He murder.", "tokens_good": "He \u0120murders .", "tokens_bad": "He \u0120murder ."}
-{"sentence_good": "He nails.", "sentence_bad": "He nail.", "tokens_good": "He \u0120nails .", "tokens_bad": "He \u0120nail ."}
-{"sentence_good": "He names.", "sentence_bad": "He name.", "tokens_good": "He \u0120names .", "tokens_bad": "He \u0120name ."}
-{"sentence_good": "He needs.", "sentence_bad": "He need.", "tokens_good": "He \u0120needs .", "tokens_bad": "He \u0120need ."}
-{"sentence_good": "He nods.", "sentence_bad": "He nod.", "tokens_good": "He \u0120nods .", "tokens_bad": "He \u0120nod ."}
-{"sentence_good": "He normalizes.", "sentence_bad": "He normalize.", "tokens_good": "He \u0120normal izes .", "tokens_bad": "He \u0120normal ize ."}
-{"sentence_good": "He notes.", "sentence_bad": "He note.", "tokens_good": "He \u0120notes .", "tokens_bad": "He \u0120note ."}
-{"sentence_good": "He numbers.", "sentence_bad": "He number.", "tokens_good": "He \u0120numbers .", "tokens_bad": "He \u0120number ."}
-{"sentence_good": "He objects.", "sentence_bad": "He object.", "tokens_good": "He \u0120objects .", "tokens_bad": "He \u0120object ."}
-{"sentence_good": "He offers.", "sentence_bad": "He offer.", "tokens_good": "He \u0120offers .", "tokens_bad": "He \u0120offer ."}
-{"sentence_good": "He opens.", "sentence_bad": "He open.", "tokens_good": "He \u0120opens .", "tokens_bad": "He \u0120open ."}
-{"sentence_good": "He operates.", "sentence_bad": "He operate.", "tokens_good": "He \u0120operates .", "tokens_bad": "He \u0120operate ."}
-{"sentence_good": "He orders.", "sentence_bad": "He order.", "tokens_good": "He \u0120orders .", "tokens_bad": "He \u0120order ."}
-{"sentence_good": "He overdos.", "sentence_bad": "He overdo.", "tokens_good": "He \u0120overd os .", "tokens_bad": "He \u0120over do ."}
-{"sentence_good": "He overhears.", "sentence_bad": "He overhear.", "tokens_good": "He \u0120overhe ars .", "tokens_bad": "He \u0120overhe ar ."}
-{"sentence_good": "He parks.", "sentence_bad": "He park.", "tokens_good": "He \u0120parks .", "tokens_bad": "He \u0120park ."}
-{"sentence_good": "He parts.", "sentence_bad": "He part.", "tokens_good": "He \u0120parts .", "tokens_bad": "He \u0120part ."}
-{"sentence_good": "He participates.", "sentence_bad": "He participate.", "tokens_good": "He \u0120participates .", "tokens_bad": "He \u0120participate ."}
-{"sentence_good": "He pauses.", "sentence_bad": "He pause.", "tokens_good": "He \u0120pauses .", "tokens_bad": "He \u0120pause ."}
-{"sentence_good": "He pays.", "sentence_bad": "He pay.", "tokens_good": "He \u0120pays .", "tokens_bad": "He \u0120pay ."}
-{"sentence_good": "He pedals.", "sentence_bad": "He pedal.", "tokens_good": "He \u0120pedals .", "tokens_bad": "He \u0120pedal ."}
-{"sentence_good": "He permits.", "sentence_bad": "He permit.", "tokens_good": "He \u0120permits .", "tokens_bad": "He \u0120permit ."}
-{"sentence_good": "He phones.", "sentence_bad": "He phone.", "tokens_good": "He \u0120phones .", "tokens_bad": "He \u0120phone ."}
-{"sentence_good": "He pilots.", "sentence_bad": "He pilot.", "tokens_good": "He \u0120pilots .", "tokens_bad": "He \u0120pilot ."}
-{"sentence_good": "He pioneers.", "sentence_bad": "He pioneer.", "tokens_good": "He \u0120pioneers .", "tokens_bad": "He \u0120pioneer ."}
-{"sentence_good": "He places.", "sentence_bad": "He place.", "tokens_good": "He \u0120places .", "tokens_bad": "He \u0120place ."}
-{"sentence_good": "He plans.", "sentence_bad": "He plan.", "tokens_good": "He \u0120plans .", "tokens_bad": "He \u0120plan ."}
-{"sentence_good": "He plants.", "sentence_bad": "He plant.", "tokens_good": "He \u0120plants .", "tokens_bad": "He \u0120plant ."}
-{"sentence_good": "He plays.", "sentence_bad": "He play.", "tokens_good": "He \u0120plays .", "tokens_bad": "He \u0120play ."}
-{"sentence_good": "He plugs.", "sentence_bad": "He plug.", "tokens_good": "He \u0120plugs .", "tokens_bad": "He \u0120plug ."}
-{"sentence_good": "He pops.", "sentence_bad": "He pop.", "tokens_good": "He \u0120pops .", "tokens_bad": "He \u0120pop ."}
-{"sentence_good": "He practices.", "sentence_bad": "He practice.", "tokens_good": "He \u0120practices .", "tokens_bad": "He \u0120practice ."}
-{"sentence_good": "He precedes.", "sentence_bad": "He precede.", "tokens_good": "He \u0120preced es .", "tokens_bad": "He \u0120preced e ."}
-{"sentence_good": "He prefers.", "sentence_bad": "He prefer.", "tokens_good": "He \u0120prefers .", "tokens_bad": "He \u0120prefer ."}
-{"sentence_good": "He prepares.", "sentence_bad": "He prepare.", "tokens_good": "He \u0120prepares .", "tokens_bad": "He \u0120prepare ."}
-{"sentence_good": "He presents.", "sentence_bad": "He present.", "tokens_good": "He \u0120presents .", "tokens_bad": "He \u0120present ."}
-{"sentence_good": "He presides.", "sentence_bad": "He preside.", "tokens_good": "He \u0120pres ides .", "tokens_bad": "He \u0120pres ide ."}
-{"sentence_good": "He prints.", "sentence_bad": "He print.", "tokens_good": "He \u0120prints .", "tokens_bad": "He \u0120print ."}
-{"sentence_good": "He produces.", "sentence_bad": "He produce.", "tokens_good": "He \u0120produces .", "tokens_bad": "He \u0120produce ."}
-{"sentence_good": "He projects.", "sentence_bad": "He project.", "tokens_good": "He \u0120projects .", "tokens_bad": "He \u0120project ."}
-{"sentence_good": "He promises.", "sentence_bad": "He promise.", "tokens_good": "He \u0120promises .", "tokens_bad": "He \u0120promise ."}
-{"sentence_good": "He promotes.", "sentence_bad": "He promote.", "tokens_good": "He \u0120promotes .", "tokens_bad": "He \u0120promote ."}
-{"sentence_good": "He proofreads.", "sentence_bad": "He proofread.", "tokens_good": "He \u0120proof reads .", "tokens_bad": "He \u0120proof read ."}
-{"sentence_good": "He proposes.", "sentence_bad": "He propose.", "tokens_good": "He \u0120proposes .", "tokens_bad": "He \u0120propose ."}
-{"sentence_good": "He publicizes.", "sentence_bad": "He publicize.", "tokens_good": "He \u0120public izes .", "tokens_bad": "He \u0120public ize ."}
-{"sentence_good": "He pumps.", "sentence_bad": "He pump.", "tokens_good": "He \u0120pumps .", "tokens_bad": "He \u0120pump ."}
-{"sentence_good": "He punctures.", "sentence_bad": "He puncture.", "tokens_good": "He \u0120punct ures .", "tokens_bad": "He \u0120punct ure ."}
-{"sentence_good": "He puts.", "sentence_bad": "He put.", "tokens_good": "He \u0120puts .", "tokens_bad": "He \u0120put ."}
-{"sentence_good": "He questions.", "sentence_bad": "He question.", "tokens_good": "He \u0120questions .", "tokens_bad": "He \u0120question ."}
-{"sentence_good": "He queues.", "sentence_bad": "He queue.", "tokens_good": "He \u0120queues .", "tokens_bad": "He \u0120queue ."}
-{"sentence_good": "He races.", "sentence_bad": "He race.", "tokens_good": "He \u0120races .", "tokens_bad": "He \u0120race ."}
-{"sentence_good": "He radiates.", "sentence_bad": "He radiate.", "tokens_good": "He \u0120radi ates .", "tokens_bad": "He \u0120rad iate ."}
-{"sentence_good": "He rains.", "sentence_bad": "He rain.", "tokens_good": "He \u0120rains .", "tokens_bad": "He \u0120rain ."}
-{"sentence_good": "He raises.", "sentence_bad": "He raise.", "tokens_good": "He \u0120raises .", "tokens_bad": "He \u0120raise ."}
-{"sentence_good": "He rates.", "sentence_bad": "He rate.", "tokens_good": "He \u0120rates .", "tokens_bad": "He \u0120rate ."}
-{"sentence_good": "He reads.", "sentence_bad": "He read.", "tokens_good": "He \u0120reads .", "tokens_bad": "He \u0120read ."}
-{"sentence_good": "He realizes.", "sentence_bad": "He realize.", "tokens_good": "He \u0120realizes .", "tokens_bad": "He \u0120realize ."}
-{"sentence_good": "He reasons.", "sentence_bad": "He reason.", "tokens_good": "He \u0120reasons .", "tokens_bad": "He \u0120reason ."}
-{"sentence_good": "He recognizes.", "sentence_bad": "He recognize.", "tokens_good": "He \u0120recognizes .", "tokens_bad": "He \u0120recognize ."}
-{"sentence_good": "He recommends.", "sentence_bad": "He recommend.", "tokens_good": "He \u0120recommends .", "tokens_bad": "He \u0120recommend ."}
-{"sentence_good": "He records.", "sentence_bad": "He record.", "tokens_good": "He \u0120records .", "tokens_bad": "He \u0120record ."}
-{"sentence_good": "He reduces.", "sentence_bad": "He reduce.", "tokens_good": "He \u0120reduces .", "tokens_bad": "He \u0120reduce ."}
-{"sentence_good": "He rehabilitates.", "sentence_bad": "He rehabilitate.", "tokens_good": "He \u0120rehabilit ates .", "tokens_bad": "He \u0120rehabilit ate ."}
-{"sentence_good": "He rejects.", "sentence_bad": "He reject.", "tokens_good": "He \u0120rejects .", "tokens_bad": "He \u0120reject ."}
-{"sentence_good": "He relates.", "sentence_bad": "He relate.", "tokens_good": "He \u0120relates .", "tokens_bad": "He \u0120relate ."}
-{"sentence_good": "He releases.", "sentence_bad": "He release.", "tokens_good": "He \u0120releases .", "tokens_bad": "He \u0120release ."}
-{"sentence_good": "He remains.", "sentence_bad": "He remain.", "tokens_good": "He \u0120remains .", "tokens_bad": "He \u0120remain ."}
-{"sentence_good": "He remembers.", "sentence_bad": "He remember.", "tokens_good": "He \u0120remembers .", "tokens_bad": "He \u0120remember ."}
-{"sentence_good": "He reminds.", "sentence_bad": "He remind.", "tokens_good": "He \u0120reminds .", "tokens_bad": "He \u0120remind ."}
-{"sentence_good": "He renders.", "sentence_bad": "He render.", "tokens_good": "He \u0120renders .", "tokens_bad": "He \u0120render ."}
-{"sentence_good": "He reorganizes.", "sentence_bad": "He reorganize.", "tokens_good": "He \u0120reorgan izes .", "tokens_bad": "He \u0120reorgan ize ."}
-{"sentence_good": "He repairs.", "sentence_bad": "He repair.", "tokens_good": "He \u0120repairs .", "tokens_bad": "He \u0120repair ."}
-{"sentence_good": "He repeats.", "sentence_bad": "He repeat.", "tokens_good": "He \u0120repeats .", "tokens_bad": "He \u0120repeat ."}
-{"sentence_good": "He represents.", "sentence_bad": "He represent.", "tokens_good": "He \u0120represents .", "tokens_bad": "He \u0120represent ."}
-{"sentence_good": "He resolves.", "sentence_bad": "He resolve.", "tokens_good": "He \u0120resolves .", "tokens_bad": "He \u0120resolve ."}
-{"sentence_good": "He responds.", "sentence_bad": "He respond.", "tokens_good": "He \u0120responds .", "tokens_bad": "He \u0120respond ."}
-{"sentence_good": "He returns.", "sentence_bad": "He return.", "tokens_good": "He \u0120returns .", "tokens_bad": "He \u0120return ."}
-{"sentence_good": "He rhymes.", "sentence_bad": "He rhyme.", "tokens_good": "He \u0120rh ymes .", "tokens_bad": "He \u0120rhy me ."}
-{"sentence_good": "He rides.", "sentence_bad": "He ride.", "tokens_good": "He \u0120rides .", "tokens_bad": "He \u0120ride ."}
-{"sentence_good": "He rings.", "sentence_bad": "He ring.", "tokens_good": "He \u0120rings .", "tokens_bad": "He \u0120ring ."}
-{"sentence_good": "He rises.", "sentence_bad": "He rise.", "tokens_good": "He \u0120rises .", "tokens_bad": "He \u0120rise ."}
-{"sentence_good": "He ruins.", "sentence_bad": "He ruin.", "tokens_good": "He \u0120ruins .", "tokens_bad": "He \u0120ruin ."}
-{"sentence_good": "He rules.", "sentence_bad": "He rule.", "tokens_good": "He \u0120rules .", "tokens_bad": "He \u0120rule ."}
-{"sentence_good": "He sails.", "sentence_bad": "He sail.", "tokens_good": "He \u0120sails .", "tokens_bad": "He \u0120sail ."}
-{"sentence_good": "He schedules.", "sentence_bad": "He schedule.", "tokens_good": "He \u0120schedules .", "tokens_bad": "He \u0120schedule ."}
-{"sentence_good": "He scolds.", "sentence_bad": "He scold.", "tokens_good": "He \u0120sc olds .", "tokens_bad": "He \u0120sc old ."}
-{"sentence_good": "He screams.", "sentence_bad": "He scream.", "tokens_good": "He \u0120screams .", "tokens_bad": "He \u0120scream ."}
-{"sentence_good": "He screws.", "sentence_bad": "He screw.", "tokens_good": "He \u0120screws .", "tokens_bad": "He \u0120screw ."}
-{"sentence_good": "He seals.", "sentence_bad": "He seal.", "tokens_good": "He \u0120seals .", "tokens_bad": "He \u0120seal ."}
-{"sentence_good": "He sees.", "sentence_bad": "He see.", "tokens_good": "He \u0120sees .", "tokens_bad": "He \u0120see ."}
-{"sentence_good": "He seeks.", "sentence_bad": "He seek.", "tokens_good": "He \u0120seeks .", "tokens_bad": "He \u0120seek ."}
-{"sentence_good": "He services.", "sentence_bad": "He service.", "tokens_good": "He \u0120services .", "tokens_bad": "He \u0120service ."}
-{"sentence_good": "He sets.", "sentence_bad": "He set.", "tokens_good": "He \u0120sets .", "tokens_bad": "He \u0120set ."}
-{"sentence_good": "He shakes.", "sentence_bad": "He shake.", "tokens_good": "He \u0120shakes .", "tokens_bad": "He \u0120shake ."}
-{"sentence_good": "He shapes.", "sentence_bad": "He shape.", "tokens_good": "He \u0120shapes .", "tokens_bad": "He \u0120shape ."}
-{"sentence_good": "He shares.", "sentence_bad": "He share.", "tokens_good": "He \u0120shares .", "tokens_bad": "He \u0120share ."}
-{"sentence_good": "He shears.", "sentence_bad": "He shear.", "tokens_good": "He \u0120she ars .", "tokens_bad": "He \u0120she ar ."}
-{"sentence_good": "He shelters.", "sentence_bad": "He shelter.", "tokens_good": "He \u0120shelters .", "tokens_bad": "He \u0120shelter ."}
-{"sentence_good": "He shines.", "sentence_bad": "He shine.", "tokens_good": "He \u0120shines .", "tokens_bad": "He \u0120shine ."}
-{"sentence_good": "He shivers.", "sentence_bad": "He shiver.", "tokens_good": "He \u0120sh ivers .", "tokens_bad": "He \u0120sh iver ."}
-{"sentence_good": "He shocks.", "sentence_bad": "He shock.", "tokens_good": "He \u0120shocks .", "tokens_bad": "He \u0120shock ."}
-{"sentence_good": "He shoes.", "sentence_bad": "He shoe.", "tokens_good": "He \u0120shoes .", "tokens_bad": "He \u0120shoe ."}
-{"sentence_good": "He shoots.", "sentence_bad": "He shoot.", "tokens_good": "He \u0120shoots .", "tokens_bad": "He \u0120shoot ."}
-{"sentence_good": "He shops.", "sentence_bad": "He shop.", "tokens_good": "He \u0120shops .", "tokens_bad": "He \u0120shop ."}
-{"sentence_good": "He shows.", "sentence_bad": "He show.", "tokens_good": "He \u0120shows .", "tokens_bad": "He \u0120show ."}
-{"sentence_good": "He shuts.", "sentence_bad": "He shut.", "tokens_good": "He \u0120shuts .", "tokens_bad": "He \u0120shut ."}
-{"sentence_good": "He signals.", "sentence_bad": "He signal.", "tokens_good": "He \u0120signals .", "tokens_bad": "He \u0120signal ."}
-{"sentence_good": "He sins.", "sentence_bad": "He sin.", "tokens_good": "He \u0120sins .", "tokens_bad": "He \u0120sin ."}
-{"sentence_good": "He sings.", "sentence_bad": "He sing.", "tokens_good": "He \u0120sings .", "tokens_bad": "He \u0120sing ."}
-{"sentence_good": "He sinks.", "sentence_bad": "He sink.", "tokens_good": "He \u0120sinks .", "tokens_bad": "He \u0120sink ."}
-{"sentence_good": "He sits.", "sentence_bad": "He sit.", "tokens_good": "He \u0120sits .", "tokens_bad": "He \u0120sit ."}
-{"sentence_good": "He sleeps.", "sentence_bad": "He sleep.", "tokens_good": "He \u0120sleeps .", "tokens_bad": "He \u0120sleep ."}
-{"sentence_good": "He slides.", "sentence_bad": "He slide.", "tokens_good": "He \u0120slides .", "tokens_bad": "He \u0120slide ."}
-{"sentence_good": "He slinks.", "sentence_bad": "He slink.", "tokens_good": "He \u0120sl inks .", "tokens_bad": "He \u0120sl ink ."}
-{"sentence_good": "He slips.", "sentence_bad": "He slip.", "tokens_good": "He \u0120slips .", "tokens_bad": "He \u0120slip ."}
-{"sentence_good": "He slows.", "sentence_bad": "He slow.", "tokens_good": "He \u0120slows .", "tokens_bad": "He \u0120slow ."}
-{"sentence_good": "He smells.", "sentence_bad": "He smell.", "tokens_good": "He \u0120smells .", "tokens_bad": "He \u0120smell ."}
-{"sentence_good": "He smiles.", "sentence_bad": "He smile.", "tokens_good": "He \u0120smiles .", "tokens_bad": "He \u0120smile ."}
-{"sentence_good": "He smites.", "sentence_bad": "He smite.", "tokens_good": "He \u0120sm ites .", "tokens_bad": "He \u0120sm ite ."}
-{"sentence_good": "He smokes.", "sentence_bad": "He smoke.", "tokens_good": "He \u0120smokes .", "tokens_bad": "He \u0120smoke ."}
-{"sentence_good": "He sneezes.", "sentence_bad": "He sneeze.", "tokens_good": "He \u0120sne ez es .", "tokens_bad": "He \u0120sne e ze ."}
-{"sentence_good": "He snores.", "sentence_bad": "He snore.", "tokens_good": "He \u0120sn ores .", "tokens_bad": "He \u0120sn ore ."}
-{"sentence_good": "He soothes.", "sentence_bad": "He soothe.", "tokens_good": "He \u0120so othes .", "tokens_bad": "He \u0120so othe ."}
-{"sentence_good": "He sorts.", "sentence_bad": "He sort.", "tokens_good": "He \u0120sorts .", "tokens_bad": "He \u0120sort ."}
-{"sentence_good": "He sounds.", "sentence_bad": "He sound.", "tokens_good": "He \u0120sounds .", "tokens_bad": "He \u0120sound ."}
-{"sentence_good": "He sparks.", "sentence_bad": "He spark.", "tokens_good": "He \u0120sparks .", "tokens_bad": "He \u0120spark ."}
-{"sentence_good": "He sparkles.", "sentence_bad": "He sparkle.", "tokens_good": "He \u0120spark les .", "tokens_bad": "He \u0120spark le ."}
-{"sentence_good": "He speaks.", "sentence_bad": "He speak.", "tokens_good": "He \u0120speaks .", "tokens_bad": "He \u0120speak ."}
-{"sentence_good": "He speeds.", "sentence_bad": "He speed.", "tokens_good": "He \u0120speeds .", "tokens_bad": "He \u0120speed ."}
-{"sentence_good": "He spells.", "sentence_bad": "He spell.", "tokens_good": "He \u0120spells .", "tokens_bad": "He \u0120spell ."}
-{"sentence_good": "He spills.", "sentence_bad": "He spill.", "tokens_good": "He \u0120spills .", "tokens_bad": "He \u0120spill ."}
-{"sentence_good": "He spins.", "sentence_bad": "He spin.", "tokens_good": "He \u0120spins .", "tokens_bad": "He \u0120spin ."}
-{"sentence_good": "He splits.", "sentence_bad": "He split.", "tokens_good": "He \u0120splits .", "tokens_bad": "He \u0120split ."}
-{"sentence_good": "He spots.", "sentence_bad": "He spot.", "tokens_good": "He \u0120spots .", "tokens_bad": "He \u0120spot ."}
-{"sentence_good": "He springs.", "sentence_bad": "He spring.", "tokens_good": "He \u0120springs .", "tokens_bad": "He \u0120spring ."}
-{"sentence_good": "He squeaks.", "sentence_bad": "He squeak.", "tokens_good": "He \u0120sque aks .", "tokens_bad": "He \u0120sque ak ."}
-{"sentence_good": "He stains.", "sentence_bad": "He stain.", "tokens_good": "He \u0120stains .", "tokens_bad": "He \u0120stain ."}
-{"sentence_good": "He stamps.", "sentence_bad": "He stamp.", "tokens_good": "He \u0120stamps .", "tokens_bad": "He \u0120stamp ."}
-{"sentence_good": "He stands.", "sentence_bad": "He stand.", "tokens_good": "He \u0120stands .", "tokens_bad": "He \u0120stand ."}
-{"sentence_good": "He starts.", "sentence_bad": "He start.", "tokens_good": "He \u0120starts .", "tokens_bad": "He \u0120start ."}
-{"sentence_good": "He steals.", "sentence_bad": "He steal.", "tokens_good": "He \u0120steals .", "tokens_bad": "He \u0120steal ."}
-{"sentence_good": "He steps.", "sentence_bad": "He step.", "tokens_good": "He \u0120steps .", "tokens_bad": "He \u0120step ."}
-{"sentence_good": "He stimulates.", "sentence_bad": "He stimulate.", "tokens_good": "He \u0120stimulates .", "tokens_bad": "He \u0120stimulate ."}
-{"sentence_good": "He stops.", "sentence_bad": "He stop.", "tokens_good": "He \u0120stops .", "tokens_bad": "He \u0120stop ."}
-{"sentence_good": "He straps.", "sentence_bad": "He strap.", "tokens_good": "He \u0120straps .", "tokens_bad": "He \u0120strap ."}
-{"sentence_good": "He streamlines.", "sentence_bad": "He streamline.", "tokens_good": "He \u0120stream lines .", "tokens_bad": "He \u0120stream line ."}
-{"sentence_good": "He strengthens.", "sentence_bad": "He strengthen.", "tokens_good": "He \u0120strengthens .", "tokens_bad": "He \u0120strengthen ."}
-{"sentence_good": "He strikes.", "sentence_bad": "He strike.", "tokens_good": "He \u0120strikes .", "tokens_bad": "He \u0120strike ."}
-{"sentence_good": "He strings.", "sentence_bad": "He string.", "tokens_good": "He \u0120strings .", "tokens_bad": "He \u0120string ."}
-{"sentence_good": "He strips.", "sentence_bad": "He strip.", "tokens_good": "He \u0120strips .", "tokens_bad": "He \u0120strip ."}
-{"sentence_good": "He strokes.", "sentence_bad": "He stroke.", "tokens_good": "He \u0120strokes .", "tokens_bad": "He \u0120stroke ."}
-{"sentence_good": "He structures.", "sentence_bad": "He structure.", "tokens_good": "He \u0120structures .", "tokens_bad": "He \u0120structure ."}
-{"sentence_good": "He sublets.", "sentence_bad": "He sublet.", "tokens_good": "He \u0120sub lets .", "tokens_bad": "He \u0120sub let ."}
-{"sentence_good": "He suffers.", "sentence_bad": "He suffer.", "tokens_good": "He \u0120suffers .", "tokens_bad": "He \u0120suffer ."}
-{"sentence_good": "He suits.", "sentence_bad": "He suit.", "tokens_good": "He \u0120suits .", "tokens_bad": "He \u0120suit ."}
-{"sentence_good": "He summarizes.", "sentence_bad": "He summarize.", "tokens_good": "He \u0120summarizes .", "tokens_bad": "He \u0120summarize ."}
-{"sentence_good": "He supports.", "sentence_bad": "He support.", "tokens_good": "He \u0120supports .", "tokens_bad": "He \u0120support ."}
-{"sentence_good": "He surrounds.", "sentence_bad": "He surround.", "tokens_good": "He \u0120surrounds .", "tokens_bad": "He \u0120surround ."}
-{"sentence_good": "He suspects.", "sentence_bad": "He suspect.", "tokens_good": "He \u0120suspects .", "tokens_bad": "He \u0120suspect ."}
-{"sentence_good": "He sweeps.", "sentence_bad": "He sweep.", "tokens_good": "He \u0120sweeps .", "tokens_bad": "He \u0120sweep ."}
-{"sentence_good": "He swings.", "sentence_bad": "He swing.", "tokens_good": "He \u0120swings .", "tokens_bad": "He \u0120swing ."}
-{"sentence_good": "He symbolizes.", "sentence_bad": "He symbolize.", "tokens_good": "He \u0120symbol izes .", "tokens_bad": "He \u0120symbol ize ."}
-{"sentence_good": "He synthesizes.", "sentence_bad": "He synthesize.", "tokens_good": "He \u0120synthes izes .", "tokens_bad": "He \u0120synthes ize ."}
-{"sentence_good": "He tabulates.", "sentence_bad": "He tabulate.", "tokens_good": "He \u0120tab ulates .", "tokens_bad": "He \u0120tab ulate ."}
-{"sentence_good": "He takes.", "sentence_bad": "He take.", "tokens_good": "He \u0120takes .", "tokens_bad": "He \u0120take ."}
-{"sentence_good": "He talks.", "sentence_bad": "He talk.", "tokens_good": "He \u0120talks .", "tokens_bad": "He \u0120talk ."}
-{"sentence_good": "He taps.", "sentence_bad": "He tap.", "tokens_good": "He \u0120taps .", "tokens_bad": "He \u0120tap ."}
-{"sentence_good": "He tears.", "sentence_bad": "He tear.", "tokens_good": "He \u0120tears .", "tokens_bad": "He \u0120tear ."}
-{"sentence_good": "He tests.", "sentence_bad": "He test.", "tokens_good": "He \u0120tests .", "tokens_bad": "He \u0120test ."}
-{"sentence_good": "He thaws.", "sentence_bad": "He thaw.", "tokens_good": "He \u0120th aws .", "tokens_bad": "He \u0120th aw ."}
-{"sentence_good": "He thinks.", "sentence_bad": "He think.", "tokens_good": "He \u0120thinks .", "tokens_bad": "He \u0120think ."}
-{"sentence_good": "He throws.", "sentence_bad": "He throw.", "tokens_good": "He \u0120throws .", "tokens_bad": "He \u0120throw ."}
-{"sentence_good": "He ticks.", "sentence_bad": "He tick.", "tokens_good": "He \u0120ticks .", "tokens_bad": "He \u0120tick ."}
-{"sentence_good": "He tickles.", "sentence_bad": "He tickle.", "tokens_good": "He \u0120tick les .", "tokens_bad": "He \u0120tick le ."}
-{"sentence_good": "He ties.", "sentence_bad": "He tie.", "tokens_good": "He \u0120ties .", "tokens_bad": "He \u0120tie ."}
-{"sentence_good": "He times.", "sentence_bad": "He time.", "tokens_good": "He \u0120times .", "tokens_bad": "He \u0120time ."}
-{"sentence_good": "He tips.", "sentence_bad": "He tip.", "tokens_good": "He \u0120tips .", "tokens_bad": "He \u0120tip ."}
-{"sentence_good": "He tires.", "sentence_bad": "He tire.", "tokens_good": "He \u0120tires .", "tokens_bad": "He \u0120tire ."}
-{"sentence_good": "He tours.", "sentence_bad": "He tour.", "tokens_good": "He \u0120tours .", "tokens_bad": "He \u0120tour ."}
-{"sentence_good": "He traces.", "sentence_bad": "He trace.", "tokens_good": "He \u0120traces .", "tokens_bad": "He \u0120trace ."}
-{"sentence_good": "He trains.", "sentence_bad": "He train.", "tokens_good": "He \u0120trains .", "tokens_bad": "He \u0120train ."}
-{"sentence_good": "He transcribes.", "sentence_bad": "He transcribe.", "tokens_good": "He \u0120transc ribes .", "tokens_bad": "He \u0120transc ribe ."}
-{"sentence_good": "He transfers.", "sentence_bad": "He transfer.", "tokens_good": "He \u0120transfers .", "tokens_bad": "He \u0120transfer ."}
-{"sentence_good": "He translates.", "sentence_bad": "He translate.", "tokens_good": "He \u0120translates .", "tokens_bad": "He \u0120translate ."}
-{"sentence_good": "He transports.", "sentence_bad": "He transport.", "tokens_good": "He \u0120transports .", "tokens_bad": "He \u0120transport ."}
-{"sentence_good": "He treats.", "sentence_bad": "He treat.", "tokens_good": "He \u0120treats .", "tokens_bad": "He \u0120treat ."}
-{"sentence_good": "He trembles.", "sentence_bad": "He tremble.", "tokens_good": "He \u0120tremb les .", "tokens_bad": "He \u0120trem ble ."}
-{"sentence_good": "He trots.", "sentence_bad": "He trot.", "tokens_good": "He \u0120tro ts .", "tokens_bad": "He \u0120tro t ."}
-{"sentence_good": "He troubles.", "sentence_bad": "He trouble.", "tokens_good": "He \u0120troubles .", "tokens_bad": "He \u0120trouble ."}
-{"sentence_good": "He trusts.", "sentence_bad": "He trust.", "tokens_good": "He \u0120trusts .", "tokens_bad": "He \u0120trust ."}
-{"sentence_good": "He twists.", "sentence_bad": "He twist.", "tokens_good": "He \u0120twists .", "tokens_bad": "He \u0120twist ."}
-{"sentence_good": "He types.", "sentence_bad": "He type.", "tokens_good": "He \u0120types .", "tokens_bad": "He \u0120type ."}
-{"sentence_good": "He updates.", "sentence_bad": "He update.", "tokens_good": "He \u0120updates .", "tokens_bad": "He \u0120update ."}
-{"sentence_good": "He upgrades.", "sentence_bad": "He upgrade.", "tokens_good": "He \u0120upgrades .", "tokens_bad": "He \u0120upgrade ."}
-{"sentence_good": "He verbalizes.", "sentence_bad": "He verbalize.", "tokens_good": "He \u0120verbal izes .", "tokens_bad": "He \u0120verbal ize ."}
-{"sentence_good": "He visits.", "sentence_bad": "He visit.", "tokens_good": "He \u0120visits .", "tokens_bad": "He \u0120visit ."}
-{"sentence_good": "He wails.", "sentence_bad": "He wail.", "tokens_good": "He \u0120w ails .", "tokens_bad": "He \u0120w ail ."}
-{"sentence_good": "He waits.", "sentence_bad": "He wait.", "tokens_good": "He \u0120waits .", "tokens_bad": "He \u0120wait ."}
-{"sentence_good": "He wakes.", "sentence_bad": "He wake.", "tokens_good": "He \u0120wakes .", "tokens_bad": "He \u0120wake ."}
-{"sentence_good": "He walks.", "sentence_bad": "He walk.", "tokens_good": "He \u0120walks .", "tokens_bad": "He \u0120walk ."}
-{"sentence_good": "He waters.", "sentence_bad": "He water.", "tokens_good": "He \u0120waters .", "tokens_bad": "He \u0120water ."}
-{"sentence_good": "He wears.", "sentence_bad": "He wear.", "tokens_good": "He \u0120wears .", "tokens_bad": "He \u0120wear ."}
-{"sentence_good": "He welcomes.", "sentence_bad": "He welcome.", "tokens_good": "He \u0120welcomes .", "tokens_bad": "He \u0120welcome ."}
-{"sentence_good": "He wends.", "sentence_bad": "He wend.", "tokens_good": "He \u0120w ends .", "tokens_bad": "He \u0120w end ."}
-{"sentence_good": "He whispers.", "sentence_bad": "He whisper.", "tokens_good": "He \u0120whispers .", "tokens_bad": "He \u0120whisper ."}
-{"sentence_good": "He winds.", "sentence_bad": "He wind.", "tokens_good": "He \u0120winds .", "tokens_bad": "He \u0120wind ."}
-{"sentence_good": "He wipes.", "sentence_bad": "He wipe.", "tokens_good": "He \u0120wipes .", "tokens_bad": "He \u0120wipe ."}
-{"sentence_good": "He wraps.", "sentence_bad": "He wrap.", "tokens_good": "He \u0120wraps .", "tokens_bad": "He \u0120wrap ."}
-{"sentence_good": "He wrings.", "sentence_bad": "He wring.", "tokens_good": "He \u0120wr ings .", "tokens_bad": "He \u0120wr ing ."}
-{"sentence_good": "He yells.", "sentence_bad": "He yell.", "tokens_good": "He \u0120yells .", "tokens_bad": "He \u0120yell ."}
+{"sentence_good": "He accepts it.", "sentence_bad": "He accept it.", "tokens_good": "He \u0120accepts \u0120it .", "tokens_bad": "He \u0120accept \u0120it ."}
+{"sentence_good": "He achieves it.", "sentence_bad": "He achieve it.", "tokens_good": "He \u0120achieves \u0120it .", "tokens_bad": "He \u0120achieve \u0120it ."}
+{"sentence_good": "He activates it.", "sentence_bad": "He activate it.", "tokens_good": "He \u0120activates \u0120it .", "tokens_bad": "He \u0120activate \u0120it ."}
+{"sentence_good": "He admits it.", "sentence_bad": "He admit it.", "tokens_good": "He \u0120admits \u0120it .", "tokens_bad": "He \u0120admit \u0120it ."}
+{"sentence_good": "He agrees it.", "sentence_bad": "He agree it.", "tokens_good": "He \u0120agrees \u0120it .", "tokens_bad": "He \u0120agree \u0120it ."}
+{"sentence_good": "He allows it.", "sentence_bad": "He allow it.", "tokens_good": "He \u0120allows \u0120it .", "tokens_bad": "He \u0120allow \u0120it ."}
+{"sentence_good": "He answers it.", "sentence_bad": "He answer it.", "tokens_good": "He \u0120answers \u0120it .", "tokens_bad": "He \u0120answer \u0120it ."}
+{"sentence_good": "He appears it.", "sentence_bad": "He appear it.", "tokens_good": "He \u0120appears \u0120it .", "tokens_bad": "He \u0120appear \u0120it ."}
+{"sentence_good": "He appraises it.", "sentence_bad": "He appraise it.", "tokens_good": "He \u0120appra ises \u0120it .", "tokens_bad": "He \u0120appra ise \u0120it ."}
+{"sentence_good": "He argues it.", "sentence_bad": "He argue it.", "tokens_good": "He \u0120argues \u0120it .", "tokens_bad": "He \u0120argue \u0120it ."}
+{"sentence_good": "He arrives it.", "sentence_bad": "He arrive it.", "tokens_good": "He \u0120arrives \u0120it .", "tokens_bad": "He \u0120arrive \u0120it ."}
+{"sentence_good": "He assures it.", "sentence_bad": "He assure it.", "tokens_good": "He \u0120assures \u0120it .", "tokens_bad": "He \u0120assure \u0120it ."}
+{"sentence_good": "He attends it.", "sentence_bad": "He attend it.", "tokens_good": "He \u0120attends \u0120it .", "tokens_bad": "He \u0120attend \u0120it ."}
+{"sentence_good": "He avoids it.", "sentence_bad": "He avoid it.", "tokens_good": "He \u0120avoids \u0120it .", "tokens_bad": "He \u0120avoid \u0120it ."}
+{"sentence_good": "He bans it.", "sentence_bad": "He ban it.", "tokens_good": "He \u0120bans \u0120it .", "tokens_bad": "He \u0120ban \u0120it ."}
+{"sentence_good": "He bats it.", "sentence_bad": "He bat it.", "tokens_good": "He \u0120bats \u0120it .", "tokens_bad": "He \u0120bat \u0120it ."}
+{"sentence_good": "He bathes it.", "sentence_bad": "He bathe it.", "tokens_good": "He \u0120bat hes \u0120it .", "tokens_bad": "He \u0120bat he \u0120it ."}
+{"sentence_good": "He battles it.", "sentence_bad": "He battle it.", "tokens_good": "He \u0120battles \u0120it .", "tokens_bad": "He \u0120battle \u0120it ."}
+{"sentence_good": "He bes it.", "sentence_bad": "He be it.", "tokens_good": "He \u0120bes \u0120it .", "tokens_bad": "He \u0120be \u0120it ."}
+{"sentence_good": "He beams it.", "sentence_bad": "He beam it.", "tokens_good": "He \u0120beams \u0120it .", "tokens_bad": "He \u0120beam \u0120it ."}
+{"sentence_good": "He beats it.", "sentence_bad": "He beat it.", "tokens_good": "He \u0120beats \u0120it .", "tokens_bad": "He \u0120beat \u0120it ."}
+{"sentence_good": "He becomes it.", "sentence_bad": "He become it.", "tokens_good": "He \u0120becomes \u0120it .", "tokens_bad": "He \u0120become \u0120it ."}
+{"sentence_good": "He begs it.", "sentence_bad": "He beg it.", "tokens_good": "He \u0120begs \u0120it .", "tokens_bad": "He \u0120beg \u0120it ."}
+{"sentence_good": "He begins it.", "sentence_bad": "He begin it.", "tokens_good": "He \u0120begins \u0120it .", "tokens_bad": "He \u0120begin \u0120it ."}
+{"sentence_good": "He belongs it.", "sentence_bad": "He belong it.", "tokens_good": "He \u0120belongs \u0120it .", "tokens_bad": "He \u0120belong \u0120it ."}
+{"sentence_good": "He besets it.", "sentence_bad": "He beset it.", "tokens_good": "He \u0120bes ets \u0120it .", "tokens_bad": "He \u0120bes et \u0120it ."}
+{"sentence_good": "He bets it.", "sentence_bad": "He bet it.", "tokens_good": "He \u0120bets \u0120it .", "tokens_bad": "He \u0120bet \u0120it ."}
+{"sentence_good": "He blows it.", "sentence_bad": "He blow it.", "tokens_good": "He \u0120blows \u0120it .", "tokens_bad": "He \u0120blow \u0120it ."}
+{"sentence_good": "He boasts it.", "sentence_bad": "He boast it.", "tokens_good": "He \u0120boasts \u0120it .", "tokens_bad": "He \u0120boast \u0120it ."}
+{"sentence_good": "He boils it.", "sentence_bad": "He boil it.", "tokens_good": "He \u0120boils \u0120it .", "tokens_bad": "He \u0120boil \u0120it ."}
+{"sentence_good": "He brakes it.", "sentence_bad": "He brake it.", "tokens_good": "He \u0120brakes \u0120it .", "tokens_bad": "He \u0120brake \u0120it ."}
+{"sentence_good": "He breaks it.", "sentence_bad": "He break it.", "tokens_good": "He \u0120breaks \u0120it .", "tokens_bad": "He \u0120break \u0120it ."}
+{"sentence_good": "He brings it.", "sentence_bad": "He bring it.", "tokens_good": "He \u0120brings \u0120it .", "tokens_bad": "He \u0120bring \u0120it ."}
+{"sentence_good": "He broadcasts it.", "sentence_bad": "He broadcast it.", "tokens_good": "He \u0120broadcasts \u0120it .", "tokens_bad": "He \u0120broadcast \u0120it ."}
+{"sentence_good": "He budgets it.", "sentence_bad": "He budget it.", "tokens_good": "He \u0120budgets \u0120it .", "tokens_bad": "He \u0120budget \u0120it ."}
+{"sentence_good": "He bumps it.", "sentence_bad": "He bump it.", "tokens_good": "He \u0120bumps \u0120it .", "tokens_bad": "He \u0120bump \u0120it ."}
+{"sentence_good": "He buys it.", "sentence_bad": "He buy it.", "tokens_good": "He \u0120buys \u0120it .", "tokens_bad": "He \u0120buy \u0120it ."}
+{"sentence_good": "He calculates it.", "sentence_bad": "He calculate it.", "tokens_good": "He \u0120calculates \u0120it .", "tokens_bad": "He \u0120calculate \u0120it ."}
+{"sentence_good": "He camps it.", "sentence_bad": "He camp it.", "tokens_good": "He \u0120camps \u0120it .", "tokens_bad": "He \u0120camp \u0120it ."}
+{"sentence_good": "He cares it.", "sentence_bad": "He care it.", "tokens_good": "He \u0120cares \u0120it .", "tokens_bad": "He \u0120care \u0120it ."}
+{"sentence_good": "He casts it.", "sentence_bad": "He cast it.", "tokens_good": "He \u0120casts \u0120it .", "tokens_bad": "He \u0120cast \u0120it ."}
+{"sentence_good": "He causes it.", "sentence_bad": "He cause it.", "tokens_good": "He \u0120causes \u0120it .", "tokens_bad": "He \u0120cause \u0120it ."}
+{"sentence_good": "He challenges it.", "sentence_bad": "He challenge it.", "tokens_good": "He \u0120challenges \u0120it .", "tokens_bad": "He \u0120challenge \u0120it ."}
+{"sentence_good": "He charts it.", "sentence_bad": "He chart it.", "tokens_good": "He \u0120charts \u0120it .", "tokens_bad": "He \u0120chart \u0120it ."}
+{"sentence_good": "He cheers it.", "sentence_bad": "He cheer it.", "tokens_good": "He \u0120cheers \u0120it .", "tokens_bad": "He \u0120cheer \u0120it ."}
+{"sentence_good": "He chooses it.", "sentence_bad": "He choose it.", "tokens_good": "He \u0120chooses \u0120it .", "tokens_bad": "He \u0120choose \u0120it ."}
+{"sentence_good": "He chops it.", "sentence_bad": "He chop it.", "tokens_good": "He \u0120chops \u0120it .", "tokens_bad": "He \u0120chop \u0120it ."}
+{"sentence_good": "He claims it.", "sentence_bad": "He claim it.", "tokens_good": "He \u0120claims \u0120it .", "tokens_bad": "He \u0120claim \u0120it ."}
+{"sentence_good": "He claps it.", "sentence_bad": "He clap it.", "tokens_good": "He \u0120cl aps \u0120it .", "tokens_bad": "He \u0120cl ap \u0120it ."}
+{"sentence_good": "He cleans it.", "sentence_bad": "He clean it.", "tokens_good": "He \u0120cleans \u0120it .", "tokens_bad": "He \u0120clean \u0120it ."}
+{"sentence_good": "He clears it.", "sentence_bad": "He clear it.", "tokens_good": "He \u0120clears \u0120it .", "tokens_bad": "He \u0120clear \u0120it ."}
+{"sentence_good": "He clips it.", "sentence_bad": "He clip it.", "tokens_good": "He \u0120clips \u0120it .", "tokens_bad": "He \u0120clip \u0120it ."}
+{"sentence_good": "He closes it.", "sentence_bad": "He close it.", "tokens_good": "He \u0120closes \u0120it .", "tokens_bad": "He \u0120close \u0120it ."}
+{"sentence_good": "He comes it.", "sentence_bad": "He come it.", "tokens_good": "He \u0120comes \u0120it .", "tokens_bad": "He \u0120come \u0120it ."}
+{"sentence_good": "He commands it.", "sentence_bad": "He command it.", "tokens_good": "He \u0120commands \u0120it .", "tokens_bad": "He \u0120command \u0120it ."}
+{"sentence_good": "He communicates it.", "sentence_bad": "He communicate it.", "tokens_good": "He \u0120communicates \u0120it .", "tokens_bad": "He \u0120communicate \u0120it ."}
+{"sentence_good": "He complains it.", "sentence_bad": "He complain it.", "tokens_good": "He \u0120complains \u0120it .", "tokens_bad": "He \u0120complain \u0120it ."}
+{"sentence_good": "He completes it.", "sentence_bad": "He complete it.", "tokens_good": "He \u0120completes \u0120it .", "tokens_bad": "He \u0120complete \u0120it ."}
+{"sentence_good": "He concludes it.", "sentence_bad": "He conclude it.", "tokens_good": "He \u0120concludes \u0120it .", "tokens_bad": "He \u0120conclude \u0120it ."}
+{"sentence_good": "He conducts it.", "sentence_bad": "He conduct it.", "tokens_good": "He \u0120conducts \u0120it .", "tokens_bad": "He \u0120conduct \u0120it ."}
+{"sentence_good": "He contains it.", "sentence_bad": "He contain it.", "tokens_good": "He \u0120contains \u0120it .", "tokens_bad": "He \u0120contain \u0120it ."}
+{"sentence_good": "He continues it.", "sentence_bad": "He continue it.", "tokens_good": "He \u0120continues \u0120it .", "tokens_bad": "He \u0120continue \u0120it ."}
+{"sentence_good": "He controls it.", "sentence_bad": "He control it.", "tokens_good": "He \u0120controls \u0120it .", "tokens_bad": "He \u0120control \u0120it ."}
+{"sentence_good": "He converts it.", "sentence_bad": "He convert it.", "tokens_good": "He \u0120converts \u0120it .", "tokens_bad": "He \u0120convert \u0120it ."}
+{"sentence_good": "He correlates it.", "sentence_bad": "He correlate it.", "tokens_good": "He \u0120correlates \u0120it .", "tokens_bad": "He \u0120correlate \u0120it ."}
+{"sentence_good": "He covers it.", "sentence_bad": "He cover it.", "tokens_good": "He \u0120covers \u0120it .", "tokens_bad": "He \u0120cover \u0120it ."}
+{"sentence_good": "He cracks it.", "sentence_bad": "He crack it.", "tokens_good": "He \u0120cracks \u0120it .", "tokens_bad": "He \u0120crack \u0120it ."}
+{"sentence_good": "He creates it.", "sentence_bad": "He create it.", "tokens_good": "He \u0120creates \u0120it .", "tokens_bad": "He \u0120create \u0120it ."}
+{"sentence_good": "He creeps it.", "sentence_bad": "He creep it.", "tokens_good": "He \u0120creeps \u0120it .", "tokens_bad": "He \u0120creep \u0120it ."}
+{"sentence_good": "He critiques it.", "sentence_bad": "He critique it.", "tokens_good": "He \u0120critiques \u0120it .", "tokens_bad": "He \u0120critique \u0120it ."}
+{"sentence_good": "He cures it.", "sentence_bad": "He cure it.", "tokens_good": "He \u0120cures \u0120it .", "tokens_bad": "He \u0120cure \u0120it ."}
+{"sentence_good": "He cuts it.", "sentence_bad": "He cut it.", "tokens_good": "He \u0120cuts \u0120it .", "tokens_bad": "He \u0120cut \u0120it ."}
+{"sentence_good": "He dams it.", "sentence_bad": "He dam it.", "tokens_good": "He \u0120dams \u0120it .", "tokens_bad": "He \u0120dam \u0120it ."}
+{"sentence_good": "He damages it.", "sentence_bad": "He damage it.", "tokens_good": "He \u0120damages \u0120it .", "tokens_bad": "He \u0120damage \u0120it ."}
+{"sentence_good": "He deals it.", "sentence_bad": "He deal it.", "tokens_good": "He \u0120deals \u0120it .", "tokens_bad": "He \u0120deal \u0120it ."}
+{"sentence_good": "He decides it.", "sentence_bad": "He decide it.", "tokens_good": "He \u0120decides \u0120it .", "tokens_bad": "He \u0120decide \u0120it ."}
+{"sentence_good": "He defines it.", "sentence_bad": "He define it.", "tokens_good": "He \u0120defines \u0120it .", "tokens_bad": "He \u0120define \u0120it ."}
+{"sentence_good": "He delegates it.", "sentence_bad": "He delegate it.", "tokens_good": "He \u0120delegates \u0120it .", "tokens_bad": "He \u0120delegate \u0120it ."}
+{"sentence_good": "He depends it.", "sentence_bad": "He depend it.", "tokens_good": "He \u0120depends \u0120it .", "tokens_bad": "He \u0120depend \u0120it ."}
+{"sentence_good": "He describes it.", "sentence_bad": "He describe it.", "tokens_good": "He \u0120describes \u0120it .", "tokens_bad": "He \u0120describe \u0120it ."}
+{"sentence_good": "He deserves it.", "sentence_bad": "He deserve it.", "tokens_good": "He \u0120deserves \u0120it .", "tokens_bad": "He \u0120deserve \u0120it ."}
+{"sentence_good": "He destroys it.", "sentence_bad": "He destroy it.", "tokens_good": "He \u0120destroys \u0120it .", "tokens_bad": "He \u0120destroy \u0120it ."}
+{"sentence_good": "He details it.", "sentence_bad": "He detail it.", "tokens_good": "He \u0120details \u0120it .", "tokens_bad": "He \u0120detail \u0120it ."}
+{"sentence_good": "He develops it.", "sentence_bad": "He develop it.", "tokens_good": "He \u0120develops \u0120it .", "tokens_bad": "He \u0120develop \u0120it ."}
+{"sentence_good": "He diagnoses it.", "sentence_bad": "He diagnose it.", "tokens_good": "He \u0120diagnoses \u0120it .", "tokens_bad": "He \u0120diagnose \u0120it ."}
+{"sentence_good": "He discovers it.", "sentence_bad": "He discover it.", "tokens_good": "He \u0120discovers \u0120it .", "tokens_bad": "He \u0120discover \u0120it ."}
+{"sentence_good": "He dispenses it.", "sentence_bad": "He dispense it.", "tokens_good": "He \u0120disp enses \u0120it .", "tokens_bad": "He \u0120disp ense \u0120it ."}
+{"sentence_good": "He displays it.", "sentence_bad": "He display it.", "tokens_good": "He \u0120displays \u0120it .", "tokens_bad": "He \u0120display \u0120it ."}
+{"sentence_good": "He disproves it.", "sentence_bad": "He disprove it.", "tokens_good": "He \u0120dispro ves \u0120it .", "tokens_bad": "He \u0120dispro ve \u0120it ."}
+{"sentence_good": "He doubles it.", "sentence_bad": "He double it.", "tokens_good": "He \u0120doubles \u0120it .", "tokens_bad": "He \u0120double \u0120it ."}
+{"sentence_good": "He drafts it.", "sentence_bad": "He draft it.", "tokens_good": "He \u0120drafts \u0120it .", "tokens_bad": "He \u0120draft \u0120it ."}
+{"sentence_good": "He drains it.", "sentence_bad": "He drain it.", "tokens_good": "He \u0120drains \u0120it .", "tokens_bad": "He \u0120drain \u0120it ."}
+{"sentence_good": "He dramatizes it.", "sentence_bad": "He dramatize it.", "tokens_good": "He \u0120dram at izes \u0120it .", "tokens_bad": "He \u0120dram at ize \u0120it ."}
+{"sentence_good": "He draws it.", "sentence_bad": "He draw it.", "tokens_good": "He \u0120draws \u0120it .", "tokens_bad": "He \u0120draw \u0120it ."}
+{"sentence_good": "He dreams it.", "sentence_bad": "He dream it.", "tokens_good": "He \u0120dreams \u0120it .", "tokens_bad": "He \u0120dream \u0120it ."}
+{"sentence_good": "He drinks it.", "sentence_bad": "He drink it.", "tokens_good": "He \u0120drinks \u0120it .", "tokens_bad": "He \u0120drink \u0120it ."}
+{"sentence_good": "He drives it.", "sentence_bad": "He drive it.", "tokens_good": "He \u0120drives \u0120it .", "tokens_bad": "He \u0120drive \u0120it ."}
+{"sentence_good": "He drops it.", "sentence_bad": "He drop it.", "tokens_good": "He \u0120drops \u0120it .", "tokens_bad": "He \u0120drop \u0120it ."}
+{"sentence_good": "He drums it.", "sentence_bad": "He drum it.", "tokens_good": "He \u0120drums \u0120it .", "tokens_bad": "He \u0120drum \u0120it ."}
+{"sentence_good": "He eats it.", "sentence_bad": "He eat it.", "tokens_good": "He \u0120eats \u0120it .", "tokens_bad": "He \u0120eat \u0120it ."}
+{"sentence_good": "He employs it.", "sentence_bad": "He employ it.", "tokens_good": "He \u0120employs \u0120it .", "tokens_bad": "He \u0120employ \u0120it ."}
+{"sentence_good": "He engineers it.", "sentence_bad": "He engineer it.", "tokens_good": "He \u0120engineers \u0120it .", "tokens_bad": "He \u0120engineer \u0120it ."}
+{"sentence_good": "He enhances it.", "sentence_bad": "He enhance it.", "tokens_good": "He \u0120enhances \u0120it .", "tokens_bad": "He \u0120enhance \u0120it ."}
+{"sentence_good": "He enjoys it.", "sentence_bad": "He enjoy it.", "tokens_good": "He \u0120enjoys \u0120it .", "tokens_bad": "He \u0120enjoy \u0120it ."}
+{"sentence_good": "He enters it.", "sentence_bad": "He enter it.", "tokens_good": "He \u0120enters \u0120it .", "tokens_bad": "He \u0120enter \u0120it ."}
+{"sentence_good": "He escapes it.", "sentence_bad": "He escape it.", "tokens_good": "He \u0120escapes \u0120it .", "tokens_bad": "He \u0120escape \u0120it ."}
+{"sentence_good": "He estimates it.", "sentence_bad": "He estimate it.", "tokens_good": "He \u0120estimates \u0120it .", "tokens_bad": "He \u0120estimate \u0120it ."}
+{"sentence_good": "He examines it.", "sentence_bad": "He examine it.", "tokens_good": "He \u0120examines \u0120it .", "tokens_bad": "He \u0120examine \u0120it ."}
+{"sentence_good": "He exceeds it.", "sentence_bad": "He exceed it.", "tokens_good": "He \u0120exceeds \u0120it .", "tokens_bad": "He \u0120exceed \u0120it ."}
+{"sentence_good": "He excites it.", "sentence_bad": "He excite it.", "tokens_good": "He \u0120exc ites \u0120it .", "tokens_bad": "He \u0120exc ite \u0120it ."}
+{"sentence_good": "He excuses it.", "sentence_bad": "He excuse it.", "tokens_good": "He \u0120excuses \u0120it .", "tokens_bad": "He \u0120excuse \u0120it ."}
+{"sentence_good": "He executes it.", "sentence_bad": "He execute it.", "tokens_good": "He \u0120executes \u0120it .", "tokens_bad": "He \u0120execute \u0120it ."}
+{"sentence_good": "He exhibits it.", "sentence_bad": "He exhibit it.", "tokens_good": "He \u0120exhibits \u0120it .", "tokens_bad": "He \u0120exhibit \u0120it ."}
+{"sentence_good": "He experiments it.", "sentence_bad": "He experiment it.", "tokens_good": "He \u0120experiments \u0120it .", "tokens_bad": "He \u0120experiment \u0120it ."}
+{"sentence_good": "He explains it.", "sentence_bad": "He explain it.", "tokens_good": "He \u0120explains \u0120it .", "tokens_bad": "He \u0120explain \u0120it ."}
+{"sentence_good": "He extends it.", "sentence_bad": "He extend it.", "tokens_good": "He \u0120extends \u0120it .", "tokens_bad": "He \u0120extend \u0120it ."}
+{"sentence_good": "He extracts it.", "sentence_bad": "He extract it.", "tokens_good": "He \u0120extracts \u0120it .", "tokens_bad": "He \u0120extract \u0120it ."}
+{"sentence_good": "He faces it.", "sentence_bad": "He face it.", "tokens_good": "He \u0120faces \u0120it .", "tokens_bad": "He \u0120face \u0120it ."}
+{"sentence_good": "He fails it.", "sentence_bad": "He fail it.", "tokens_good": "He \u0120fails \u0120it .", "tokens_bad": "He \u0120fail \u0120it ."}
+{"sentence_good": "He fears it.", "sentence_bad": "He fear it.", "tokens_good": "He \u0120fears \u0120it .", "tokens_bad": "He \u0120fear \u0120it ."}
+{"sentence_good": "He feels it.", "sentence_bad": "He feel it.", "tokens_good": "He \u0120feels \u0120it .", "tokens_bad": "He \u0120feel \u0120it ."}
+{"sentence_good": "He fills it.", "sentence_bad": "He fill it.", "tokens_good": "He \u0120fills \u0120it .", "tokens_bad": "He \u0120fill \u0120it ."}
+{"sentence_good": "He films it.", "sentence_bad": "He film it.", "tokens_good": "He \u0120films \u0120it .", "tokens_bad": "He \u0120film \u0120it ."}
+{"sentence_good": "He finalizes it.", "sentence_bad": "He finalize it.", "tokens_good": "He \u0120final izes \u0120it .", "tokens_bad": "He \u0120final ize \u0120it ."}
+{"sentence_good": "He finds it.", "sentence_bad": "He find it.", "tokens_good": "He \u0120finds \u0120it .", "tokens_bad": "He \u0120find \u0120it ."}
+{"sentence_good": "He fits it.", "sentence_bad": "He fit it.", "tokens_good": "He \u0120fits \u0120it .", "tokens_bad": "He \u0120fit \u0120it ."}
+{"sentence_good": "He flings it.", "sentence_bad": "He fling it.", "tokens_good": "He \u0120fl ings \u0120it .", "tokens_bad": "He \u0120fl ing \u0120it ."}
+{"sentence_good": "He floats it.", "sentence_bad": "He float it.", "tokens_good": "He \u0120floats \u0120it .", "tokens_bad": "He \u0120float \u0120it ."}
+{"sentence_good": "He flows it.", "sentence_bad": "He flow it.", "tokens_good": "He \u0120flows \u0120it .", "tokens_bad": "He \u0120flow \u0120it ."}
+{"sentence_good": "He folds it.", "sentence_bad": "He fold it.", "tokens_good": "He \u0120folds \u0120it .", "tokens_bad": "He \u0120fold \u0120it ."}
+{"sentence_good": "He follows it.", "sentence_bad": "He follow it.", "tokens_good": "He \u0120follows \u0120it .", "tokens_bad": "He \u0120follow \u0120it ."}
+{"sentence_good": "He fools it.", "sentence_bad": "He fool it.", "tokens_good": "He \u0120fools \u0120it .", "tokens_bad": "He \u0120fool \u0120it ."}
+{"sentence_good": "He forsakes it.", "sentence_bad": "He forsake it.", "tokens_good": "He \u0120fors akes \u0120it .", "tokens_bad": "He \u0120fors ake \u0120it ."}
+{"sentence_good": "He freezes it.", "sentence_bad": "He freeze it.", "tokens_good": "He \u0120freezes \u0120it .", "tokens_bad": "He \u0120freeze \u0120it ."}
+{"sentence_good": "He frightens it.", "sentence_bad": "He frighten it.", "tokens_good": "He \u0120fright ens \u0120it .", "tokens_bad": "He \u0120fright en \u0120it ."}
+{"sentence_good": "He gathers it.", "sentence_bad": "He gather it.", "tokens_good": "He \u0120gathers \u0120it .", "tokens_bad": "He \u0120gather \u0120it ."}
+{"sentence_good": "He generates it.", "sentence_bad": "He generate it.", "tokens_good": "He \u0120generates \u0120it .", "tokens_bad": "He \u0120generate \u0120it ."}
+{"sentence_good": "He grabs it.", "sentence_bad": "He grab it.", "tokens_good": "He \u0120grabs \u0120it .", "tokens_bad": "He \u0120grab \u0120it ."}
+{"sentence_good": "He graduates it.", "sentence_bad": "He graduate it.", "tokens_good": "He \u0120graduates \u0120it .", "tokens_bad": "He \u0120graduate \u0120it ."}
+{"sentence_good": "He greets it.", "sentence_bad": "He greet it.", "tokens_good": "He \u0120greets \u0120it .", "tokens_bad": "He \u0120greet \u0120it ."}
+{"sentence_good": "He groans it.", "sentence_bad": "He groan it.", "tokens_good": "He \u0120gro ans \u0120it .", "tokens_bad": "He \u0120gro an \u0120it ."}
+{"sentence_good": "He grows it.", "sentence_bad": "He grow it.", "tokens_good": "He \u0120grows \u0120it .", "tokens_bad": "He \u0120grow \u0120it ."}
+{"sentence_good": "He guarantees it.", "sentence_bad": "He guarantee it.", "tokens_good": "He \u0120guarantees \u0120it .", "tokens_bad": "He \u0120guarantee \u0120it ."}
+{"sentence_good": "He guides it.", "sentence_bad": "He guide it.", "tokens_good": "He \u0120guides \u0120it .", "tokens_bad": "He \u0120guide \u0120it ."}
+{"sentence_good": "He hands it.", "sentence_bad": "He hand it.", "tokens_good": "He \u0120hands \u0120it .", "tokens_bad": "He \u0120hand \u0120it ."}
+{"sentence_good": "He handles it.", "sentence_bad": "He handle it.", "tokens_good": "He \u0120handles \u0120it .", "tokens_bad": "He \u0120handle \u0120it ."}
+{"sentence_good": "He harms it.", "sentence_bad": "He harm it.", "tokens_good": "He \u0120harms \u0120it .", "tokens_bad": "He \u0120harm \u0120it ."}
+{"sentence_good": "He hates it.", "sentence_bad": "He hate it.", "tokens_good": "He \u0120hates \u0120it .", "tokens_bad": "He \u0120hate \u0120it ."}
+{"sentence_good": "He heals it.", "sentence_bad": "He heal it.", "tokens_good": "He \u0120heals \u0120it .", "tokens_bad": "He \u0120heal \u0120it ."}
+{"sentence_good": "He hears it.", "sentence_bad": "He hear it.", "tokens_good": "He \u0120hears \u0120it .", "tokens_bad": "He \u0120hear \u0120it ."}
+{"sentence_good": "He heats it.", "sentence_bad": "He heat it.", "tokens_good": "He \u0120heats \u0120it .", "tokens_bad": "He \u0120heat \u0120it ."}
+{"sentence_good": "He hides it.", "sentence_bad": "He hide it.", "tokens_good": "He \u0120hides \u0120it .", "tokens_bad": "He \u0120hide \u0120it ."}
+{"sentence_good": "He hits it.", "sentence_bad": "He hit it.", "tokens_good": "He \u0120hits \u0120it .", "tokens_bad": "He \u0120hit \u0120it ."}
+{"sentence_good": "He holds it.", "sentence_bad": "He hold it.", "tokens_good": "He \u0120holds \u0120it .", "tokens_bad": "He \u0120hold \u0120it ."}
+{"sentence_good": "He hooks it.", "sentence_bad": "He hook it.", "tokens_good": "He \u0120hooks \u0120it .", "tokens_bad": "He \u0120hook \u0120it ."}
+{"sentence_good": "He hopes it.", "sentence_bad": "He hope it.", "tokens_good": "He \u0120hopes \u0120it .", "tokens_bad": "He \u0120hope \u0120it ."}
+{"sentence_good": "He hunts it.", "sentence_bad": "He hunt it.", "tokens_good": "He \u0120hunts \u0120it .", "tokens_bad": "He \u0120hunt \u0120it ."}
+{"sentence_good": "He hurts it.", "sentence_bad": "He hurt it.", "tokens_good": "He \u0120hurts \u0120it .", "tokens_bad": "He \u0120hurt \u0120it ."}
+{"sentence_good": "He ignores it.", "sentence_bad": "He ignore it.", "tokens_good": "He \u0120ignores \u0120it .", "tokens_bad": "He \u0120ignore \u0120it ."}
+{"sentence_good": "He implements it.", "sentence_bad": "He implement it.", "tokens_good": "He \u0120implements \u0120it .", "tokens_bad": "He \u0120implement \u0120it ."}
+{"sentence_good": "He improves it.", "sentence_bad": "He improve it.", "tokens_good": "He \u0120improves \u0120it .", "tokens_bad": "He \u0120improve \u0120it ."}
+{"sentence_good": "He includes it.", "sentence_bad": "He include it.", "tokens_good": "He \u0120includes \u0120it .", "tokens_bad": "He \u0120include \u0120it ."}
+{"sentence_good": "He increases it.", "sentence_bad": "He increase it.", "tokens_good": "He \u0120increases \u0120it .", "tokens_bad": "He \u0120increase \u0120it ."}
+{"sentence_good": "He induces it.", "sentence_bad": "He induce it.", "tokens_good": "He \u0120induces \u0120it .", "tokens_bad": "He \u0120induce \u0120it ."}
+{"sentence_good": "He influences it.", "sentence_bad": "He influence it.", "tokens_good": "He \u0120influences \u0120it .", "tokens_bad": "He \u0120influence \u0120it ."}
+{"sentence_good": "He inputs it.", "sentence_bad": "He input it.", "tokens_good": "He \u0120inputs \u0120it .", "tokens_bad": "He \u0120input \u0120it ."}
+{"sentence_good": "He inspires it.", "sentence_bad": "He inspire it.", "tokens_good": "He \u0120inspires \u0120it .", "tokens_bad": "He \u0120inspire \u0120it ."}
+{"sentence_good": "He installs it.", "sentence_bad": "He install it.", "tokens_good": "He \u0120installs \u0120it .", "tokens_bad": "He \u0120install \u0120it ."}
+{"sentence_good": "He integrates it.", "sentence_bad": "He integrate it.", "tokens_good": "He \u0120integrates \u0120it .", "tokens_bad": "He \u0120integrate \u0120it ."}
+{"sentence_good": "He intends it.", "sentence_bad": "He intend it.", "tokens_good": "He \u0120intends \u0120it .", "tokens_bad": "He \u0120intend \u0120it ."}
+{"sentence_good": "He investigates it.", "sentence_bad": "He investigate it.", "tokens_good": "He \u0120investigates \u0120it .", "tokens_bad": "He \u0120investigate \u0120it ."}
+{"sentence_good": "He invites it.", "sentence_bad": "He invite it.", "tokens_good": "He \u0120invites \u0120it .", "tokens_bad": "He \u0120invite \u0120it ."}
+{"sentence_good": "He irritates it.", "sentence_bad": "He irritate it.", "tokens_good": "He \u0120irrit ates \u0120it .", "tokens_bad": "He \u0120irrit ate \u0120it ."}
+{"sentence_good": "He jails it.", "sentence_bad": "He jail it.", "tokens_good": "He \u0120jails \u0120it .", "tokens_bad": "He \u0120jail \u0120it ."}
+{"sentence_good": "He joins it.", "sentence_bad": "He join it.", "tokens_good": "He \u0120joins \u0120it .", "tokens_bad": "He \u0120join \u0120it ."}
+{"sentence_good": "He jokes it.", "sentence_bad": "He joke it.", "tokens_good": "He \u0120jokes \u0120it .", "tokens_bad": "He \u0120joke \u0120it ."}
+{"sentence_good": "He juggles it.", "sentence_bad": "He juggle it.", "tokens_good": "He \u0120jugg les \u0120it .", "tokens_bad": "He \u0120jugg le \u0120it ."}
+{"sentence_good": "He keeps it.", "sentence_bad": "He keep it.", "tokens_good": "He \u0120keeps \u0120it .", "tokens_bad": "He \u0120keep \u0120it ."}
+{"sentence_good": "He kneels it.", "sentence_bad": "He kneel it.", "tokens_good": "He \u0120kne els \u0120it .", "tokens_bad": "He \u0120kne el \u0120it ."}
+{"sentence_good": "He knocks it.", "sentence_bad": "He knock it.", "tokens_good": "He \u0120knocks \u0120it .", "tokens_bad": "He \u0120knock \u0120it ."}
+{"sentence_good": "He knots it.", "sentence_bad": "He knot it.", "tokens_good": "He \u0120knots \u0120it .", "tokens_bad": "He \u0120knot \u0120it ."}
+{"sentence_good": "He knows it.", "sentence_bad": "He know it.", "tokens_good": "He \u0120knows \u0120it .", "tokens_bad": "He \u0120know \u0120it ."}
+{"sentence_good": "He labels it.", "sentence_bad": "He label it.", "tokens_good": "He \u0120labels \u0120it .", "tokens_bad": "He \u0120label \u0120it ."}
+{"sentence_good": "He lands it.", "sentence_bad": "He land it.", "tokens_good": "He \u0120lands \u0120it .", "tokens_bad": "He \u0120land \u0120it ."}
+{"sentence_good": "He laughs it.", "sentence_bad": "He laugh it.", "tokens_good": "He \u0120laughs \u0120it .", "tokens_bad": "He \u0120laugh \u0120it ."}
+{"sentence_good": "He lays it.", "sentence_bad": "He lay it.", "tokens_good": "He \u0120lays \u0120it .", "tokens_bad": "He \u0120lay \u0120it ."}
+{"sentence_good": "He leans it.", "sentence_bad": "He lean it.", "tokens_good": "He \u0120leans \u0120it .", "tokens_bad": "He \u0120lean \u0120it ."}
+{"sentence_good": "He leaps it.", "sentence_bad": "He leap it.", "tokens_good": "He \u0120leaps \u0120it .", "tokens_bad": "He \u0120leap \u0120it ."}
+{"sentence_good": "He learns it.", "sentence_bad": "He learn it.", "tokens_good": "He \u0120learns \u0120it .", "tokens_bad": "He \u0120learn \u0120it ."}
+{"sentence_good": "He lectures it.", "sentence_bad": "He lecture it.", "tokens_good": "He \u0120lectures \u0120it .", "tokens_bad": "He \u0120lecture \u0120it ."}
+{"sentence_good": "He lets it.", "sentence_bad": "He let it.", "tokens_good": "He \u0120lets \u0120it .", "tokens_bad": "He \u0120let \u0120it ."}
+{"sentence_good": "He levels it.", "sentence_bad": "He level it.", "tokens_good": "He \u0120levels \u0120it .", "tokens_bad": "He \u0120level \u0120it ."}
+{"sentence_good": "He lightens it.", "sentence_bad": "He lighten it.", "tokens_good": "He \u0120light ens \u0120it .", "tokens_bad": "He \u0120light en \u0120it ."}
+{"sentence_good": "He likes it.", "sentence_bad": "He like it.", "tokens_good": "He \u0120likes \u0120it .", "tokens_bad": "He \u0120like \u0120it ."}
+{"sentence_good": "He listens it.", "sentence_bad": "He listen it.", "tokens_good": "He \u0120listens \u0120it .", "tokens_bad": "He \u0120listen \u0120it ."}
+{"sentence_good": "He looks it.", "sentence_bad": "He look it.", "tokens_good": "He \u0120looks \u0120it .", "tokens_bad": "He \u0120look \u0120it ."}
+{"sentence_good": "He loses it.", "sentence_bad": "He lose it.", "tokens_good": "He \u0120loses \u0120it .", "tokens_bad": "He \u0120lose \u0120it ."}
+{"sentence_good": "He maintains it.", "sentence_bad": "He maintain it.", "tokens_good": "He \u0120maintains \u0120it .", "tokens_bad": "He \u0120maintain \u0120it ."}
+{"sentence_good": "He makes it.", "sentence_bad": "He make it.", "tokens_good": "He \u0120makes \u0120it .", "tokens_bad": "He \u0120make \u0120it ."}
+{"sentence_good": "He mans it.", "sentence_bad": "He man it.", "tokens_good": "He \u0120mans \u0120it .", "tokens_bad": "He \u0120man \u0120it ."}
+{"sentence_good": "He marks it.", "sentence_bad": "He mark it.", "tokens_good": "He \u0120marks \u0120it .", "tokens_bad": "He \u0120mark \u0120it ."}
+{"sentence_good": "He markets it.", "sentence_bad": "He market it.", "tokens_good": "He \u0120markets \u0120it .", "tokens_bad": "He \u0120market \u0120it ."}
+{"sentence_good": "He mates it.", "sentence_bad": "He mate it.", "tokens_good": "He \u0120mates \u0120it .", "tokens_bad": "He \u0120mate \u0120it ."}
+{"sentence_good": "He matters it.", "sentence_bad": "He matter it.", "tokens_good": "He \u0120matters \u0120it .", "tokens_bad": "He \u0120matter \u0120it ."}
+{"sentence_good": "He means it.", "sentence_bad": "He mean it.", "tokens_good": "He \u0120means \u0120it .", "tokens_bad": "He \u0120mean \u0120it ."}
+{"sentence_good": "He measures it.", "sentence_bad": "He measure it.", "tokens_good": "He \u0120measures \u0120it .", "tokens_bad": "He \u0120measure \u0120it ."}
+{"sentence_good": "He meddles it.", "sentence_bad": "He meddle it.", "tokens_good": "He \u0120medd les \u0120it .", "tokens_bad": "He \u0120medd le \u0120it ."}
+{"sentence_good": "He meets it.", "sentence_bad": "He meet it.", "tokens_good": "He \u0120meets \u0120it .", "tokens_bad": "He \u0120meet \u0120it ."}
+{"sentence_good": "He melts it.", "sentence_bad": "He melt it.", "tokens_good": "He \u0120melts \u0120it .", "tokens_bad": "He \u0120melt \u0120it ."}
+{"sentence_good": "He melts it.", "sentence_bad": "He melt it.", "tokens_good": "He \u0120melts \u0120it .", "tokens_bad": "He \u0120melt \u0120it ."}
+{"sentence_good": "He memorizes it.", "sentence_bad": "He memorize it.", "tokens_good": "He \u0120memor izes \u0120it .", "tokens_bad": "He \u0120memor ize \u0120it ."}
+{"sentence_good": "He mentors it.", "sentence_bad": "He mentor it.", "tokens_good": "He \u0120mentors \u0120it .", "tokens_bad": "He \u0120mentor \u0120it ."}
+{"sentence_good": "He mines it.", "sentence_bad": "He mine it.", "tokens_good": "He \u0120mines \u0120it .", "tokens_bad": "He \u0120mine \u0120it ."}
+{"sentence_good": "He mistakes it.", "sentence_bad": "He mistake it.", "tokens_good": "He \u0120mistakes \u0120it .", "tokens_bad": "He \u0120mistake \u0120it ."}
+{"sentence_good": "He models it.", "sentence_bad": "He model it.", "tokens_good": "He \u0120models \u0120it .", "tokens_bad": "He \u0120model \u0120it ."}
+{"sentence_good": "He moors it.", "sentence_bad": "He moor it.", "tokens_good": "He \u0120mo ors \u0120it .", "tokens_bad": "He \u0120m oor \u0120it ."}
+{"sentence_good": "He moves it.", "sentence_bad": "He move it.", "tokens_good": "He \u0120moves \u0120it .", "tokens_bad": "He \u0120move \u0120it ."}
+{"sentence_good": "He murders it.", "sentence_bad": "He murder it.", "tokens_good": "He \u0120murders \u0120it .", "tokens_bad": "He \u0120murder \u0120it ."}
+{"sentence_good": "He nails it.", "sentence_bad": "He nail it.", "tokens_good": "He \u0120nails \u0120it .", "tokens_bad": "He \u0120nail \u0120it ."}
+{"sentence_good": "He names it.", "sentence_bad": "He name it.", "tokens_good": "He \u0120names \u0120it .", "tokens_bad": "He \u0120name \u0120it ."}
+{"sentence_good": "He nods it.", "sentence_bad": "He nod it.", "tokens_good": "He \u0120nods \u0120it .", "tokens_bad": "He \u0120nod \u0120it ."}
+{"sentence_good": "He normalizes it.", "sentence_bad": "He normalize it.", "tokens_good": "He \u0120normal izes \u0120it .", "tokens_bad": "He \u0120normal ize \u0120it ."}
+{"sentence_good": "He notices it.", "sentence_bad": "He notice it.", "tokens_good": "He \u0120notices \u0120it .", "tokens_bad": "He \u0120notice \u0120it ."}
+{"sentence_good": "He numbers it.", "sentence_bad": "He number it.", "tokens_good": "He \u0120numbers \u0120it .", "tokens_bad": "He \u0120number \u0120it ."}
+{"sentence_good": "He objects it.", "sentence_bad": "He object it.", "tokens_good": "He \u0120objects \u0120it .", "tokens_bad": "He \u0120object \u0120it ."}
+{"sentence_good": "He offers it.", "sentence_bad": "He offer it.", "tokens_good": "He \u0120offers \u0120it .", "tokens_bad": "He \u0120offer \u0120it ."}
+{"sentence_good": "He opens it.", "sentence_bad": "He open it.", "tokens_good": "He \u0120opens \u0120it .", "tokens_bad": "He \u0120open \u0120it ."}
+{"sentence_good": "He orders it.", "sentence_bad": "He order it.", "tokens_good": "He \u0120orders \u0120it .", "tokens_bad": "He \u0120order \u0120it ."}
+{"sentence_good": "He overdos it.", "sentence_bad": "He overdo it.", "tokens_good": "He \u0120overd os \u0120it .", "tokens_bad": "He \u0120over do \u0120it ."}
+{"sentence_good": "He overhears it.", "sentence_bad": "He overhear it.", "tokens_good": "He \u0120overhe ars \u0120it .", "tokens_bad": "He \u0120overhe ar \u0120it ."}
+{"sentence_good": "He owes it.", "sentence_bad": "He owe it.", "tokens_good": "He \u0120owes \u0120it .", "tokens_bad": "He \u0120owe \u0120it ."}
+{"sentence_good": "He owns it.", "sentence_bad": "He own it.", "tokens_good": "He \u0120owns \u0120it .", "tokens_bad": "He \u0120own \u0120it ."}
+{"sentence_good": "He paints it.", "sentence_bad": "He paint it.", "tokens_good": "He \u0120paints \u0120it .", "tokens_bad": "He \u0120paint \u0120it ."}
+{"sentence_good": "He parks it.", "sentence_bad": "He park it.", "tokens_good": "He \u0120parks \u0120it .", "tokens_bad": "He \u0120park \u0120it ."}
+{"sentence_good": "He parts it.", "sentence_bad": "He part it.", "tokens_good": "He \u0120parts \u0120it .", "tokens_bad": "He \u0120part \u0120it ."}
+{"sentence_good": "He pauses it.", "sentence_bad": "He pause it.", "tokens_good": "He \u0120pauses \u0120it .", "tokens_bad": "He \u0120pause \u0120it ."}
+{"sentence_good": "He pays it.", "sentence_bad": "He pay it.", "tokens_good": "He \u0120pays \u0120it .", "tokens_bad": "He \u0120pay \u0120it ."}
+{"sentence_good": "He pedals it.", "sentence_bad": "He pedal it.", "tokens_good": "He \u0120pedals \u0120it .", "tokens_bad": "He \u0120pedal \u0120it ."}
+{"sentence_good": "He peeps it.", "sentence_bad": "He peep it.", "tokens_good": "He \u0120pe eps \u0120it .", "tokens_bad": "He \u0120pe ep \u0120it ."}
+{"sentence_good": "He phones it.", "sentence_bad": "He phone it.", "tokens_good": "He \u0120phones \u0120it .", "tokens_bad": "He \u0120phone \u0120it ."}
+{"sentence_good": "He photographs it.", "sentence_bad": "He photograph it.", "tokens_good": "He \u0120photographs \u0120it .", "tokens_bad": "He \u0120photograph \u0120it ."}
+{"sentence_good": "He pilots it.", "sentence_bad": "He pilot it.", "tokens_good": "He \u0120pilots \u0120it .", "tokens_bad": "He \u0120pilot \u0120it ."}
+{"sentence_good": "He pioneers it.", "sentence_bad": "He pioneer it.", "tokens_good": "He \u0120pioneers \u0120it .", "tokens_bad": "He \u0120pioneer \u0120it ."}
+{"sentence_good": "He places it.", "sentence_bad": "He place it.", "tokens_good": "He \u0120places \u0120it .", "tokens_bad": "He \u0120place \u0120it ."}
+{"sentence_good": "He plans it.", "sentence_bad": "He plan it.", "tokens_good": "He \u0120plans \u0120it .", "tokens_bad": "He \u0120plan \u0120it ."}
+{"sentence_good": "He plants it.", "sentence_bad": "He plant it.", "tokens_good": "He \u0120plants \u0120it .", "tokens_bad": "He \u0120plant \u0120it ."}
+{"sentence_good": "He plays it.", "sentence_bad": "He play it.", "tokens_good": "He \u0120plays \u0120it .", "tokens_bad": "He \u0120play \u0120it ."}
+{"sentence_good": "He plugs it.", "sentence_bad": "He plug it.", "tokens_good": "He \u0120plugs \u0120it .", "tokens_bad": "He \u0120plug \u0120it ."}
+{"sentence_good": "He points it.", "sentence_bad": "He point it.", "tokens_good": "He \u0120points \u0120it .", "tokens_bad": "He \u0120point \u0120it ."}
+{"sentence_good": "He pops it.", "sentence_bad": "He pop it.", "tokens_good": "He \u0120pops \u0120it .", "tokens_bad": "He \u0120pop \u0120it ."}
+{"sentence_good": "He practices it.", "sentence_bad": "He practice it.", "tokens_good": "He \u0120practices \u0120it .", "tokens_bad": "He \u0120practice \u0120it ."}
+{"sentence_good": "He precedes it.", "sentence_bad": "He precede it.", "tokens_good": "He \u0120preced es \u0120it .", "tokens_bad": "He \u0120preced e \u0120it ."}
+{"sentence_good": "He predicts it.", "sentence_bad": "He predict it.", "tokens_good": "He \u0120predicts \u0120it .", "tokens_bad": "He \u0120predict \u0120it ."}
+{"sentence_good": "He prefers it.", "sentence_bad": "He prefer it.", "tokens_good": "He \u0120prefers \u0120it .", "tokens_bad": "He \u0120prefer \u0120it ."}
+{"sentence_good": "He prepares it.", "sentence_bad": "He prepare it.", "tokens_good": "He \u0120prepares \u0120it .", "tokens_bad": "He \u0120prepare \u0120it ."}
+{"sentence_good": "He presents it.", "sentence_bad": "He present it.", "tokens_good": "He \u0120presents \u0120it .", "tokens_bad": "He \u0120present \u0120it ."}
+{"sentence_good": "He preserves it.", "sentence_bad": "He preserve it.", "tokens_good": "He \u0120preserves \u0120it .", "tokens_bad": "He \u0120preserve \u0120it ."}
+{"sentence_good": "He presides it.", "sentence_bad": "He preside it.", "tokens_good": "He \u0120pres ides \u0120it .", "tokens_bad": "He \u0120pres ide \u0120it ."}
+{"sentence_good": "He prevents it.", "sentence_bad": "He prevent it.", "tokens_good": "He \u0120prevents \u0120it .", "tokens_bad": "He \u0120prevent \u0120it ."}
+{"sentence_good": "He prints it.", "sentence_bad": "He print it.", "tokens_good": "He \u0120prints \u0120it .", "tokens_bad": "He \u0120print \u0120it ."}
+{"sentence_good": "He projects it.", "sentence_bad": "He project it.", "tokens_good": "He \u0120projects \u0120it .", "tokens_bad": "He \u0120project \u0120it ."}
+{"sentence_good": "He promises it.", "sentence_bad": "He promise it.", "tokens_good": "He \u0120promises \u0120it .", "tokens_bad": "He \u0120promise \u0120it ."}
+{"sentence_good": "He promotes it.", "sentence_bad": "He promote it.", "tokens_good": "He \u0120promotes \u0120it .", "tokens_bad": "He \u0120promote \u0120it ."}
+{"sentence_good": "He proofreads it.", "sentence_bad": "He proofread it.", "tokens_good": "He \u0120proof reads \u0120it .", "tokens_bad": "He \u0120proof read \u0120it ."}
+{"sentence_good": "He proposes it.", "sentence_bad": "He propose it.", "tokens_good": "He \u0120proposes \u0120it .", "tokens_bad": "He \u0120propose \u0120it ."}
+{"sentence_good": "He provides it.", "sentence_bad": "He provide it.", "tokens_good": "He \u0120provides \u0120it .", "tokens_bad": "He \u0120provide \u0120it ."}
+{"sentence_good": "He publicizes it.", "sentence_bad": "He publicize it.", "tokens_good": "He \u0120public izes \u0120it .", "tokens_bad": "He \u0120public ize \u0120it ."}
+{"sentence_good": "He punctures it.", "sentence_bad": "He puncture it.", "tokens_good": "He \u0120punct ures \u0120it .", "tokens_bad": "He \u0120punct ure \u0120it ."}
+{"sentence_good": "He purchases it.", "sentence_bad": "He purchase it.", "tokens_good": "He \u0120purchases \u0120it .", "tokens_bad": "He \u0120purchase \u0120it ."}
+{"sentence_good": "He puts it.", "sentence_bad": "He put it.", "tokens_good": "He \u0120puts \u0120it .", "tokens_bad": "He \u0120put \u0120it ."}
+{"sentence_good": "He questions it.", "sentence_bad": "He question it.", "tokens_good": "He \u0120questions \u0120it .", "tokens_bad": "He \u0120question \u0120it ."}
+{"sentence_good": "He queues it.", "sentence_bad": "He queue it.", "tokens_good": "He \u0120queues \u0120it .", "tokens_bad": "He \u0120queue \u0120it ."}
+{"sentence_good": "He races it.", "sentence_bad": "He race it.", "tokens_good": "He \u0120races \u0120it .", "tokens_bad": "He \u0120race \u0120it ."}
+{"sentence_good": "He radiates it.", "sentence_bad": "He radiate it.", "tokens_good": "He \u0120radi ates \u0120it .", "tokens_bad": "He \u0120rad iate \u0120it ."}
+{"sentence_good": "He rains it.", "sentence_bad": "He rain it.", "tokens_good": "He \u0120rains \u0120it .", "tokens_bad": "He \u0120rain \u0120it ."}
+{"sentence_good": "He raises it.", "sentence_bad": "He raise it.", "tokens_good": "He \u0120raises \u0120it .", "tokens_bad": "He \u0120raise \u0120it ."}
+{"sentence_good": "He rates it.", "sentence_bad": "He rate it.", "tokens_good": "He \u0120rates \u0120it .", "tokens_bad": "He \u0120rate \u0120it ."}
+{"sentence_good": "He reads it.", "sentence_bad": "He read it.", "tokens_good": "He \u0120reads \u0120it .", "tokens_bad": "He \u0120read \u0120it ."}
+{"sentence_good": "He reasons it.", "sentence_bad": "He reason it.", "tokens_good": "He \u0120reasons \u0120it .", "tokens_bad": "He \u0120reason \u0120it ."}
+{"sentence_good": "He receives it.", "sentence_bad": "He receive it.", "tokens_good": "He \u0120receives \u0120it .", "tokens_bad": "He \u0120receive \u0120it ."}
+{"sentence_good": "He recognizes it.", "sentence_bad": "He recognize it.", "tokens_good": "He \u0120recognizes \u0120it .", "tokens_bad": "He \u0120recognize \u0120it ."}
+{"sentence_good": "He recommends it.", "sentence_bad": "He recommend it.", "tokens_good": "He \u0120recommends \u0120it .", "tokens_bad": "He \u0120recommend \u0120it ."}
+{"sentence_good": "He records it.", "sentence_bad": "He record it.", "tokens_good": "He \u0120records \u0120it .", "tokens_bad": "He \u0120record \u0120it ."}
+{"sentence_good": "He reduces it.", "sentence_bad": "He reduce it.", "tokens_good": "He \u0120reduces \u0120it .", "tokens_bad": "He \u0120reduce \u0120it ."}
+{"sentence_good": "He rehabilitates it.", "sentence_bad": "He rehabilitate it.", "tokens_good": "He \u0120rehabilit ates \u0120it .", "tokens_bad": "He \u0120rehabilit ate \u0120it ."}
+{"sentence_good": "He rejects it.", "sentence_bad": "He reject it.", "tokens_good": "He \u0120rejects \u0120it .", "tokens_bad": "He \u0120reject \u0120it ."}
+{"sentence_good": "He relates it.", "sentence_bad": "He relate it.", "tokens_good": "He \u0120relates \u0120it .", "tokens_bad": "He \u0120relate \u0120it ."}
+{"sentence_good": "He releases it.", "sentence_bad": "He release it.", "tokens_good": "He \u0120releases \u0120it .", "tokens_bad": "He \u0120release \u0120it ."}
+{"sentence_good": "He remains it.", "sentence_bad": "He remain it.", "tokens_good": "He \u0120remains \u0120it .", "tokens_bad": "He \u0120remain \u0120it ."}
+{"sentence_good": "He reminds it.", "sentence_bad": "He remind it.", "tokens_good": "He \u0120reminds \u0120it .", "tokens_bad": "He \u0120remind \u0120it ."}
+{"sentence_good": "He removes it.", "sentence_bad": "He remove it.", "tokens_good": "He \u0120removes \u0120it .", "tokens_bad": "He \u0120remove \u0120it ."}
+{"sentence_good": "He renders it.", "sentence_bad": "He render it.", "tokens_good": "He \u0120renders \u0120it .", "tokens_bad": "He \u0120render \u0120it ."}
+{"sentence_good": "He reorganizes it.", "sentence_bad": "He reorganize it.", "tokens_good": "He \u0120reorgan izes \u0120it .", "tokens_bad": "He \u0120reorgan ize \u0120it ."}
+{"sentence_good": "He repairs it.", "sentence_bad": "He repair it.", "tokens_good": "He \u0120repairs \u0120it .", "tokens_bad": "He \u0120repair \u0120it ."}
+{"sentence_good": "He repeats it.", "sentence_bad": "He repeat it.", "tokens_good": "He \u0120repeats \u0120it .", "tokens_bad": "He \u0120repeat \u0120it ."}
+{"sentence_good": "He reports it.", "sentence_bad": "He report it.", "tokens_good": "He \u0120reports \u0120it .", "tokens_bad": "He \u0120report \u0120it ."}
+{"sentence_good": "He represents it.", "sentence_bad": "He represent it.", "tokens_good": "He \u0120represents \u0120it .", "tokens_bad": "He \u0120represent \u0120it ."}
+{"sentence_good": "He resolves it.", "sentence_bad": "He resolve it.", "tokens_good": "He \u0120resolves \u0120it .", "tokens_bad": "He \u0120resolve \u0120it ."}
+{"sentence_good": "He responds it.", "sentence_bad": "He respond it.", "tokens_good": "He \u0120responds \u0120it .", "tokens_bad": "He \u0120respond \u0120it ."}
+{"sentence_good": "He returns it.", "sentence_bad": "He return it.", "tokens_good": "He \u0120returns \u0120it .", "tokens_bad": "He \u0120return \u0120it ."}
+{"sentence_good": "He reviews it.", "sentence_bad": "He review it.", "tokens_good": "He \u0120reviews \u0120it .", "tokens_bad": "He \u0120review \u0120it ."}
+{"sentence_good": "He rhymes it.", "sentence_bad": "He rhyme it.", "tokens_good": "He \u0120rh ymes \u0120it .", "tokens_bad": "He \u0120rhy me \u0120it ."}
+{"sentence_good": "He rides it.", "sentence_bad": "He ride it.", "tokens_good": "He \u0120rides \u0120it .", "tokens_bad": "He \u0120ride \u0120it ."}
+{"sentence_good": "He rings it.", "sentence_bad": "He ring it.", "tokens_good": "He \u0120rings \u0120it .", "tokens_bad": "He \u0120ring \u0120it ."}
+{"sentence_good": "He rises it.", "sentence_bad": "He rise it.", "tokens_good": "He \u0120rises \u0120it .", "tokens_bad": "He \u0120rise \u0120it ."}
+{"sentence_good": "He risks it.", "sentence_bad": "He risk it.", "tokens_good": "He \u0120risks \u0120it .", "tokens_bad": "He \u0120risk \u0120it ."}
+{"sentence_good": "He ruins it.", "sentence_bad": "He ruin it.", "tokens_good": "He \u0120ruins \u0120it .", "tokens_bad": "He \u0120ruin \u0120it ."}
+{"sentence_good": "He sails it.", "sentence_bad": "He sail it.", "tokens_good": "He \u0120sails \u0120it .", "tokens_bad": "He \u0120sail \u0120it ."}
+{"sentence_good": "He schedules it.", "sentence_bad": "He schedule it.", "tokens_good": "He \u0120schedules \u0120it .", "tokens_bad": "He \u0120schedule \u0120it ."}
+{"sentence_good": "He screams it.", "sentence_bad": "He scream it.", "tokens_good": "He \u0120screams \u0120it .", "tokens_bad": "He \u0120scream \u0120it ."}
+{"sentence_good": "He screws it.", "sentence_bad": "He screw it.", "tokens_good": "He \u0120screws \u0120it .", "tokens_bad": "He \u0120screw \u0120it ."}
+{"sentence_good": "He seals it.", "sentence_bad": "He seal it.", "tokens_good": "He \u0120seals \u0120it .", "tokens_bad": "He \u0120seal \u0120it ."}
+{"sentence_good": "He sees it.", "sentence_bad": "He see it.", "tokens_good": "He \u0120sees \u0120it .", "tokens_bad": "He \u0120see \u0120it ."}
+{"sentence_good": "He seeks it.", "sentence_bad": "He seek it.", "tokens_good": "He \u0120seeks \u0120it .", "tokens_bad": "He \u0120seek \u0120it ."}
+{"sentence_good": "He selects it.", "sentence_bad": "He select it.", "tokens_good": "He \u0120selects \u0120it .", "tokens_bad": "He \u0120select \u0120it ."}
+{"sentence_good": "He services it.", "sentence_bad": "He service it.", "tokens_good": "He \u0120services \u0120it .", "tokens_bad": "He \u0120service \u0120it ."}
+{"sentence_good": "He shakes it.", "sentence_bad": "He shake it.", "tokens_good": "He \u0120shakes \u0120it .", "tokens_bad": "He \u0120shake \u0120it ."}
+{"sentence_good": "He shapes it.", "sentence_bad": "He shape it.", "tokens_good": "He \u0120shapes \u0120it .", "tokens_bad": "He \u0120shape \u0120it ."}
+{"sentence_good": "He shares it.", "sentence_bad": "He share it.", "tokens_good": "He \u0120shares \u0120it .", "tokens_bad": "He \u0120share \u0120it ."}
+{"sentence_good": "He shears it.", "sentence_bad": "He shear it.", "tokens_good": "He \u0120she ars \u0120it .", "tokens_bad": "He \u0120she ar \u0120it ."}
+{"sentence_good": "He shelters it.", "sentence_bad": "He shelter it.", "tokens_good": "He \u0120shelters \u0120it .", "tokens_bad": "He \u0120shelter \u0120it ."}
+{"sentence_good": "He shines it.", "sentence_bad": "He shine it.", "tokens_good": "He \u0120shines \u0120it .", "tokens_bad": "He \u0120shine \u0120it ."}
+{"sentence_good": "He shocks it.", "sentence_bad": "He shock it.", "tokens_good": "He \u0120shocks \u0120it .", "tokens_bad": "He \u0120shock \u0120it ."}
+{"sentence_good": "He shoes it.", "sentence_bad": "He shoe it.", "tokens_good": "He \u0120shoes \u0120it .", "tokens_bad": "He \u0120shoe \u0120it ."}
+{"sentence_good": "He shoots it.", "sentence_bad": "He shoot it.", "tokens_good": "He \u0120shoots \u0120it .", "tokens_bad": "He \u0120shoot \u0120it ."}
+{"sentence_good": "He shops it.", "sentence_bad": "He shop it.", "tokens_good": "He \u0120shops \u0120it .", "tokens_bad": "He \u0120shop \u0120it ."}
+{"sentence_good": "He shows it.", "sentence_bad": "He show it.", "tokens_good": "He \u0120shows \u0120it .", "tokens_bad": "He \u0120show \u0120it ."}
+{"sentence_good": "He shuts it.", "sentence_bad": "He shut it.", "tokens_good": "He \u0120shuts \u0120it .", "tokens_bad": "He \u0120shut \u0120it ."}
+{"sentence_good": "He signals it.", "sentence_bad": "He signal it.", "tokens_good": "He \u0120signals \u0120it .", "tokens_bad": "He \u0120signal \u0120it ."}
+{"sentence_good": "He sins it.", "sentence_bad": "He sin it.", "tokens_good": "He \u0120sins \u0120it .", "tokens_bad": "He \u0120sin \u0120it ."}
+{"sentence_good": "He sings it.", "sentence_bad": "He sing it.", "tokens_good": "He \u0120sings \u0120it .", "tokens_bad": "He \u0120sing \u0120it ."}
+{"sentence_good": "He sinks it.", "sentence_bad": "He sink it.", "tokens_good": "He \u0120sinks \u0120it .", "tokens_bad": "He \u0120sink \u0120it ."}
+{"sentence_good": "He sits it.", "sentence_bad": "He sit it.", "tokens_good": "He \u0120sits \u0120it .", "tokens_bad": "He \u0120sit \u0120it ."}
+{"sentence_good": "He sleeps it.", "sentence_bad": "He sleep it.", "tokens_good": "He \u0120sleeps \u0120it .", "tokens_bad": "He \u0120sleep \u0120it ."}
+{"sentence_good": "He slides it.", "sentence_bad": "He slide it.", "tokens_good": "He \u0120slides \u0120it .", "tokens_bad": "He \u0120slide \u0120it ."}
+{"sentence_good": "He slinks it.", "sentence_bad": "He slink it.", "tokens_good": "He \u0120sl inks \u0120it .", "tokens_bad": "He \u0120sl ink \u0120it ."}
+{"sentence_good": "He slips it.", "sentence_bad": "He slip it.", "tokens_good": "He \u0120slips \u0120it .", "tokens_bad": "He \u0120slip \u0120it ."}
+{"sentence_good": "He slows it.", "sentence_bad": "He slow it.", "tokens_good": "He \u0120slows \u0120it .", "tokens_bad": "He \u0120slow \u0120it ."}
+{"sentence_good": "He smells it.", "sentence_bad": "He smell it.", "tokens_good": "He \u0120smells \u0120it .", "tokens_bad": "He \u0120smell \u0120it ."}
+{"sentence_good": "He smites it.", "sentence_bad": "He smite it.", "tokens_good": "He \u0120sm ites \u0120it .", "tokens_bad": "He \u0120sm ite \u0120it ."}
+{"sentence_good": "He smokes it.", "sentence_bad": "He smoke it.", "tokens_good": "He \u0120smokes \u0120it .", "tokens_bad": "He \u0120smoke \u0120it ."}
+{"sentence_good": "He sneezes it.", "sentence_bad": "He sneeze it.", "tokens_good": "He \u0120sne ez es \u0120it .", "tokens_bad": "He \u0120sne e ze \u0120it ."}
+{"sentence_good": "He snores it.", "sentence_bad": "He snore it.", "tokens_good": "He \u0120sn ores \u0120it .", "tokens_bad": "He \u0120sn ore \u0120it ."}
+{"sentence_good": "He sorts it.", "sentence_bad": "He sort it.", "tokens_good": "He \u0120sorts \u0120it .", "tokens_bad": "He \u0120sort \u0120it ."}
+{"sentence_good": "He sounds it.", "sentence_bad": "He sound it.", "tokens_good": "He \u0120sounds \u0120it .", "tokens_bad": "He \u0120sound \u0120it ."}
+{"sentence_good": "He sparks it.", "sentence_bad": "He spark it.", "tokens_good": "He \u0120sparks \u0120it .", "tokens_bad": "He \u0120spark \u0120it ."}
+{"sentence_good": "He sparkles it.", "sentence_bad": "He sparkle it.", "tokens_good": "He \u0120spark les \u0120it .", "tokens_bad": "He \u0120spark le \u0120it ."}
+{"sentence_good": "He speaks it.", "sentence_bad": "He speak it.", "tokens_good": "He \u0120speaks \u0120it .", "tokens_bad": "He \u0120speak \u0120it ."}
+{"sentence_good": "He speeds it.", "sentence_bad": "He speed it.", "tokens_good": "He \u0120speeds \u0120it .", "tokens_bad": "He \u0120speed \u0120it ."}
+{"sentence_good": "He spells it.", "sentence_bad": "He spell it.", "tokens_good": "He \u0120spells \u0120it .", "tokens_bad": "He \u0120spell \u0120it ."}
+{"sentence_good": "He spills it.", "sentence_bad": "He spill it.", "tokens_good": "He \u0120spills \u0120it .", "tokens_bad": "He \u0120spill \u0120it ."}
+{"sentence_good": "He spins it.", "sentence_bad": "He spin it.", "tokens_good": "He \u0120spins \u0120it .", "tokens_bad": "He \u0120spin \u0120it ."}
+{"sentence_good": "He splits it.", "sentence_bad": "He split it.", "tokens_good": "He \u0120splits \u0120it .", "tokens_bad": "He \u0120split \u0120it ."}
+{"sentence_good": "He spots it.", "sentence_bad": "He spot it.", "tokens_good": "He \u0120spots \u0120it .", "tokens_bad": "He \u0120spot \u0120it ."}
+{"sentence_good": "He springs it.", "sentence_bad": "He spring it.", "tokens_good": "He \u0120springs \u0120it .", "tokens_bad": "He \u0120spring \u0120it ."}
+{"sentence_good": "He squeaks it.", "sentence_bad": "He squeak it.", "tokens_good": "He \u0120sque aks \u0120it .", "tokens_bad": "He \u0120sque ak \u0120it ."}
+{"sentence_good": "He stains it.", "sentence_bad": "He stain it.", "tokens_good": "He \u0120stains \u0120it .", "tokens_bad": "He \u0120stain \u0120it ."}
+{"sentence_good": "He stamps it.", "sentence_bad": "He stamp it.", "tokens_good": "He \u0120stamps \u0120it .", "tokens_bad": "He \u0120stamp \u0120it ."}
+{"sentence_good": "He stands it.", "sentence_bad": "He stand it.", "tokens_good": "He \u0120stands \u0120it .", "tokens_bad": "He \u0120stand \u0120it ."}
+{"sentence_good": "He starts it.", "sentence_bad": "He start it.", "tokens_good": "He \u0120starts \u0120it .", "tokens_bad": "He \u0120start \u0120it ."}
+{"sentence_good": "He steals it.", "sentence_bad": "He steal it.", "tokens_good": "He \u0120steals \u0120it .", "tokens_bad": "He \u0120steal \u0120it ."}
+{"sentence_good": "He steps it.", "sentence_bad": "He step it.", "tokens_good": "He \u0120steps \u0120it .", "tokens_bad": "He \u0120step \u0120it ."}
+{"sentence_good": "He stimulates it.", "sentence_bad": "He stimulate it.", "tokens_good": "He \u0120stimulates \u0120it .", "tokens_bad": "He \u0120stimulate \u0120it ."}
+{"sentence_good": "He straps it.", "sentence_bad": "He strap it.", "tokens_good": "He \u0120straps \u0120it .", "tokens_bad": "He \u0120strap \u0120it ."}
+{"sentence_good": "He streamlines it.", "sentence_bad": "He streamline it.", "tokens_good": "He \u0120stream lines \u0120it .", "tokens_bad": "He \u0120stream line \u0120it ."}
+{"sentence_good": "He strengthens it.", "sentence_bad": "He strengthen it.", "tokens_good": "He \u0120strengthens \u0120it .", "tokens_bad": "He \u0120strengthen \u0120it ."}
+{"sentence_good": "He strides it.", "sentence_bad": "He stride it.", "tokens_good": "He \u0120strides \u0120it .", "tokens_bad": "He \u0120stride \u0120it ."}
+{"sentence_good": "He strikes it.", "sentence_bad": "He strike it.", "tokens_good": "He \u0120strikes \u0120it .", "tokens_bad": "He \u0120strike \u0120it ."}
+{"sentence_good": "He strings it.", "sentence_bad": "He string it.", "tokens_good": "He \u0120strings \u0120it .", "tokens_bad": "He \u0120string \u0120it ."}
+{"sentence_good": "He strips it.", "sentence_bad": "He strip it.", "tokens_good": "He \u0120strips \u0120it .", "tokens_bad": "He \u0120strip \u0120it ."}
+{"sentence_good": "He strokes it.", "sentence_bad": "He stroke it.", "tokens_good": "He \u0120strokes \u0120it .", "tokens_bad": "He \u0120stroke \u0120it ."}
+{"sentence_good": "He structures it.", "sentence_bad": "He structure it.", "tokens_good": "He \u0120structures \u0120it .", "tokens_bad": "He \u0120structure \u0120it ."}
+{"sentence_good": "He sublets it.", "sentence_bad": "He sublet it.", "tokens_good": "He \u0120sub lets \u0120it .", "tokens_bad": "He \u0120sub let \u0120it ."}
+{"sentence_good": "He suffers it.", "sentence_bad": "He suffer it.", "tokens_good": "He \u0120suffers \u0120it .", "tokens_bad": "He \u0120suffer \u0120it ."}
+{"sentence_good": "He suits it.", "sentence_bad": "He suit it.", "tokens_good": "He \u0120suits \u0120it .", "tokens_bad": "He \u0120suit \u0120it ."}
+{"sentence_good": "He summarizes it.", "sentence_bad": "He summarize it.", "tokens_good": "He \u0120summarizes \u0120it .", "tokens_bad": "He \u0120summarize \u0120it ."}
+{"sentence_good": "He surprises it.", "sentence_bad": "He surprise it.", "tokens_good": "He \u0120surprises \u0120it .", "tokens_bad": "He \u0120surprise \u0120it ."}
+{"sentence_good": "He surrounds it.", "sentence_bad": "He surround it.", "tokens_good": "He \u0120surrounds \u0120it .", "tokens_bad": "He \u0120surround \u0120it ."}
+{"sentence_good": "He suspects it.", "sentence_bad": "He suspect it.", "tokens_good": "He \u0120suspects \u0120it .", "tokens_bad": "He \u0120suspect \u0120it ."}
+{"sentence_good": "He sweeps it.", "sentence_bad": "He sweep it.", "tokens_good": "He \u0120sweeps \u0120it .", "tokens_bad": "He \u0120sweep \u0120it ."}
+{"sentence_good": "He swings it.", "sentence_bad": "He swing it.", "tokens_good": "He \u0120swings \u0120it .", "tokens_bad": "He \u0120swing \u0120it ."}
+{"sentence_good": "He symbolizes it.", "sentence_bad": "He symbolize it.", "tokens_good": "He \u0120symbol izes \u0120it .", "tokens_bad": "He \u0120symbol ize \u0120it ."}
+{"sentence_good": "He synthesizes it.", "sentence_bad": "He synthesize it.", "tokens_good": "He \u0120synthes izes \u0120it .", "tokens_bad": "He \u0120synthes ize \u0120it ."}
+{"sentence_good": "He tabulates it.", "sentence_bad": "He tabulate it.", "tokens_good": "He \u0120tab ulates \u0120it .", "tokens_bad": "He \u0120tab ulate \u0120it ."}
+{"sentence_good": "He takes it.", "sentence_bad": "He take it.", "tokens_good": "He \u0120takes \u0120it .", "tokens_bad": "He \u0120take \u0120it ."}
+{"sentence_good": "He talks it.", "sentence_bad": "He talk it.", "tokens_good": "He \u0120talks \u0120it .", "tokens_bad": "He \u0120talk \u0120it ."}
+{"sentence_good": "He taps it.", "sentence_bad": "He tap it.", "tokens_good": "He \u0120taps \u0120it .", "tokens_bad": "He \u0120tap \u0120it ."}
+{"sentence_good": "He tears it.", "sentence_bad": "He tear it.", "tokens_good": "He \u0120tears \u0120it .", "tokens_bad": "He \u0120tear \u0120it ."}
+{"sentence_good": "He thanks it.", "sentence_bad": "He thank it.", "tokens_good": "He \u0120thanks \u0120it .", "tokens_bad": "He \u0120thank \u0120it ."}
+{"sentence_good": "He thaws it.", "sentence_bad": "He thaw it.", "tokens_good": "He \u0120th aws \u0120it .", "tokens_bad": "He \u0120th aw \u0120it ."}
+{"sentence_good": "He thinks it.", "sentence_bad": "He think it.", "tokens_good": "He \u0120thinks \u0120it .", "tokens_bad": "He \u0120think \u0120it ."}
+{"sentence_good": "He throws it.", "sentence_bad": "He throw it.", "tokens_good": "He \u0120throws \u0120it .", "tokens_bad": "He \u0120throw \u0120it ."}
+{"sentence_good": "He ticks it.", "sentence_bad": "He tick it.", "tokens_good": "He \u0120ticks \u0120it .", "tokens_bad": "He \u0120tick \u0120it ."}
+{"sentence_good": "He ties it.", "sentence_bad": "He tie it.", "tokens_good": "He \u0120ties \u0120it .", "tokens_bad": "He \u0120tie \u0120it ."}
+{"sentence_good": "He times it.", "sentence_bad": "He time it.", "tokens_good": "He \u0120times \u0120it .", "tokens_bad": "He \u0120time \u0120it ."}
+{"sentence_good": "He tips it.", "sentence_bad": "He tip it.", "tokens_good": "He \u0120tips \u0120it .", "tokens_bad": "He \u0120tip \u0120it ."}
+{"sentence_good": "He tires it.", "sentence_bad": "He tire it.", "tokens_good": "He \u0120tires \u0120it .", "tokens_bad": "He \u0120tire \u0120it ."}
+{"sentence_good": "He tours it.", "sentence_bad": "He tour it.", "tokens_good": "He \u0120tours \u0120it .", "tokens_bad": "He \u0120tour \u0120it ."}
+{"sentence_good": "He traces it.", "sentence_bad": "He trace it.", "tokens_good": "He \u0120traces \u0120it .", "tokens_bad": "He \u0120trace \u0120it ."}
+{"sentence_good": "He transcribes it.", "sentence_bad": "He transcribe it.", "tokens_good": "He \u0120transc ribes \u0120it .", "tokens_bad": "He \u0120transc ribe \u0120it ."}
+{"sentence_good": "He transfers it.", "sentence_bad": "He transfer it.", "tokens_good": "He \u0120transfers \u0120it .", "tokens_bad": "He \u0120transfer \u0120it ."}
+{"sentence_good": "He translates it.", "sentence_bad": "He translate it.", "tokens_good": "He \u0120translates \u0120it .", "tokens_bad": "He \u0120translate \u0120it ."}
+{"sentence_good": "He transports it.", "sentence_bad": "He transport it.", "tokens_good": "He \u0120transports \u0120it .", "tokens_bad": "He \u0120transport \u0120it ."}
+{"sentence_good": "He treats it.", "sentence_bad": "He treat it.", "tokens_good": "He \u0120treats \u0120it .", "tokens_bad": "He \u0120treat \u0120it ."}
+{"sentence_good": "He trembles it.", "sentence_bad": "He tremble it.", "tokens_good": "He \u0120tremb les \u0120it .", "tokens_bad": "He \u0120trem ble \u0120it ."}
+{"sentence_good": "He trips it.", "sentence_bad": "He trip it.", "tokens_good": "He \u0120trips \u0120it .", "tokens_bad": "He \u0120trip \u0120it ."}
+{"sentence_good": "He trots it.", "sentence_bad": "He trot it.", "tokens_good": "He \u0120tro ts \u0120it .", "tokens_bad": "He \u0120tro t \u0120it ."}
+{"sentence_good": "He troubles it.", "sentence_bad": "He trouble it.", "tokens_good": "He \u0120troubles \u0120it .", "tokens_bad": "He \u0120trouble \u0120it ."}
+{"sentence_good": "He types it.", "sentence_bad": "He type it.", "tokens_good": "He \u0120types \u0120it .", "tokens_bad": "He \u0120type \u0120it ."}
+{"sentence_good": "He understands it.", "sentence_bad": "He understand it.", "tokens_good": "He \u0120understands \u0120it .", "tokens_bad": "He \u0120understand \u0120it ."}
+{"sentence_good": "He unlocks it.", "sentence_bad": "He unlock it.", "tokens_good": "He \u0120unlocks \u0120it .", "tokens_bad": "He \u0120unlock \u0120it ."}
+{"sentence_good": "He updates it.", "sentence_bad": "He update it.", "tokens_good": "He \u0120updates \u0120it .", "tokens_bad": "He \u0120update \u0120it ."}
+{"sentence_good": "He upgrades it.", "sentence_bad": "He upgrade it.", "tokens_good": "He \u0120upgrades \u0120it .", "tokens_bad": "He \u0120upgrade \u0120it ."}
+{"sentence_good": "He verbalizes it.", "sentence_bad": "He verbalize it.", "tokens_good": "He \u0120verbal izes \u0120it .", "tokens_bad": "He \u0120verbal ize \u0120it ."}
+{"sentence_good": "He visits it.", "sentence_bad": "He visit it.", "tokens_good": "He \u0120visits \u0120it .", "tokens_bad": "He \u0120visit \u0120it ."}
+{"sentence_good": "He wails it.", "sentence_bad": "He wail it.", "tokens_good": "He \u0120w ails \u0120it .", "tokens_bad": "He \u0120w ail \u0120it ."}
+{"sentence_good": "He waits it.", "sentence_bad": "He wait it.", "tokens_good": "He \u0120waits \u0120it .", "tokens_bad": "He \u0120wait \u0120it ."}
+{"sentence_good": "He wakes it.", "sentence_bad": "He wake it.", "tokens_good": "He \u0120wakes \u0120it .", "tokens_bad": "He \u0120wake \u0120it ."}
+{"sentence_good": "He walks it.", "sentence_bad": "He walk it.", "tokens_good": "He \u0120walks \u0120it .", "tokens_bad": "He \u0120walk \u0120it ."}
+{"sentence_good": "He wants it.", "sentence_bad": "He want it.", "tokens_good": "He \u0120wants \u0120it .", "tokens_bad": "He \u0120want \u0120it ."}
+{"sentence_good": "He waters it.", "sentence_bad": "He water it.", "tokens_good": "He \u0120waters \u0120it .", "tokens_bad": "He \u0120water \u0120it ."}
+{"sentence_good": "He wears it.", "sentence_bad": "He wear it.", "tokens_good": "He \u0120wears \u0120it .", "tokens_bad": "He \u0120wear \u0120it ."}
+{"sentence_good": "He welcomes it.", "sentence_bad": "He welcome it.", "tokens_good": "He \u0120welcomes \u0120it .", "tokens_bad": "He \u0120welcome \u0120it ."}
+{"sentence_good": "He wends it.", "sentence_bad": "He wend it.", "tokens_good": "He \u0120w ends \u0120it .", "tokens_bad": "He \u0120w end \u0120it ."}
+{"sentence_good": "He whispers it.", "sentence_bad": "He whisper it.", "tokens_good": "He \u0120whispers \u0120it .", "tokens_bad": "He \u0120whisper \u0120it ."}
+{"sentence_good": "He winds it.", "sentence_bad": "He wind it.", "tokens_good": "He \u0120winds \u0120it .", "tokens_bad": "He \u0120wind \u0120it ."}
+{"sentence_good": "He wipes it.", "sentence_bad": "He wipe it.", "tokens_good": "He \u0120wipes \u0120it .", "tokens_bad": "He \u0120wipe \u0120it ."}
+{"sentence_good": "He wraps it.", "sentence_bad": "He wrap it.", "tokens_good": "He \u0120wraps \u0120it .", "tokens_bad": "He \u0120wrap \u0120it ."}
+{"sentence_good": "He wrings it.", "sentence_bad": "He wring it.", "tokens_good": "He \u0120wr ings \u0120it .", "tokens_bad": "He \u0120wr ing \u0120it ."}
+{"sentence_good": "He writes it.", "sentence_bad": "He write it.", "tokens_good": "He \u0120writes \u0120it .", "tokens_bad": "He \u0120write \u0120it ."}
+{"sentence_good": "He yells it.", "sentence_bad": "He yell it.", "tokens_good": "He \u0120yells \u0120it .", "tokens_bad": "He \u0120yell \u0120it ."}

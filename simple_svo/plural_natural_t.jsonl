@@ -1,0 +1,54 @@
+{"sentence_good": "They audited it.", "sentence_bad": "They auditeds it.", "tokens_good": "They \u0120aud ited \u0120it .", "tokens_bad": "They \u0120aud ited s \u0120it ."}
+{"sentence_good": "They be it.", "sentence_bad": "They bes it.", "tokens_good": "They \u0120be \u0120it .", "tokens_bad": "They \u0120bes \u0120it ."}
+{"sentence_good": "They beset it.", "sentence_bad": "They besets it.", "tokens_good": "They \u0120bes et \u0120it .", "tokens_bad": "They \u0120bes ets \u0120it ."}
+{"sentence_good": "They bet it.", "sentence_bad": "They bets it.", "tokens_good": "They \u0120bet \u0120it .", "tokens_bad": "They \u0120bets \u0120it ."}
+{"sentence_good": "They clap it.", "sentence_bad": "They claps it.", "tokens_good": "They \u0120cl ap \u0120it .", "tokens_bad": "They \u0120cl aps \u0120it ."}
+{"sentence_good": "They cover it.", "sentence_bad": "They covers it.", "tokens_good": "They \u0120cover \u0120it .", "tokens_bad": "They \u0120covers \u0120it ."}
+{"sentence_good": "They cry it.", "sentence_bad": "They crys it.", "tokens_good": "They \u0120cry \u0120it .", "tokens_bad": "They \u0120cry s \u0120it ."}
+{"sentence_good": "They drag it.", "sentence_bad": "They drags it.", "tokens_good": "They \u0120drag \u0120it .", "tokens_bad": "They \u0120dr ags \u0120it ."}
+{"sentence_good": "They dust it.", "sentence_bad": "They dusts it.", "tokens_good": "They \u0120dust \u0120it .", "tokens_bad": "They \u0120dust s \u0120it ."}
+{"sentence_good": "They fasten it.", "sentence_bad": "They fastens it.", "tokens_good": "They \u0120fast en \u0120it .", "tokens_bad": "They \u0120fast ens \u0120it ."}
+{"sentence_good": "They fix it.", "sentence_bad": "They fixs it.", "tokens_good": "They \u0120fix \u0120it .", "tokens_bad": "They \u0120fix s \u0120it ."}
+{"sentence_good": "They fling it.", "sentence_bad": "They flings it.", "tokens_good": "They \u0120fl ing \u0120it .", "tokens_bad": "They \u0120fl ings \u0120it ."}
+{"sentence_good": "They fly it.", "sentence_bad": "They flys it.", "tokens_good": "They \u0120fly \u0120it .", "tokens_bad": "They \u0120fly s \u0120it ."}
+{"sentence_good": "They forsake it.", "sentence_bad": "They forsakes it.", "tokens_good": "They \u0120fors ake \u0120it .", "tokens_bad": "They \u0120fors akes \u0120it ."}
+{"sentence_good": "They go it.", "sentence_bad": "They gos it.", "tokens_good": "They \u0120go \u0120it .", "tokens_bad": "They \u0120g os \u0120it ."}
+{"sentence_good": "They groan it.", "sentence_bad": "They groans it.", "tokens_good": "They \u0120gro an \u0120it .", "tokens_bad": "They \u0120gro ans \u0120it ."}
+{"sentence_good": "They hum it.", "sentence_bad": "They hums it.", "tokens_good": "They \u0120hum \u0120it .", "tokens_bad": "They \u0120hum s \u0120it ."}
+{"sentence_good": "They juggle it.", "sentence_bad": "They juggles it.", "tokens_good": "They \u0120jugg le \u0120it .", "tokens_bad": "They \u0120jugg les \u0120it ."}
+{"sentence_good": "They kneel it.", "sentence_bad": "They kneels it.", "tokens_good": "They \u0120kne el \u0120it .", "tokens_bad": "They \u0120kne els \u0120it ."}
+{"sentence_good": "They lighten it.", "sentence_bad": "They lightens it.", "tokens_good": "They \u0120light en \u0120it .", "tokens_bad": "They \u0120light ens \u0120it ."}
+{"sentence_good": "They meddle it.", "sentence_bad": "They meddles it.", "tokens_good": "They \u0120medd le \u0120it .", "tokens_bad": "They \u0120medd les \u0120it ."}
+{"sentence_good": "They mediate it.", "sentence_bad": "They mediates it.", "tokens_good": "They \u0120med iate \u0120it .", "tokens_bad": "They \u0120medi ates \u0120it ."}
+{"sentence_good": "They mend it.", "sentence_bad": "They mends it.", "tokens_good": "They \u0120mend \u0120it .", "tokens_bad": "They \u0120m ends \u0120it ."}
+{"sentence_good": "They moor it.", "sentence_bad": "They moors it.", "tokens_good": "They \u0120m oor \u0120it .", "tokens_bad": "They \u0120mo ors \u0120it ."}
+{"sentence_good": "They pat it.", "sentence_bad": "They pats it.", "tokens_good": "They \u0120pat \u0120it .", "tokens_bad": "They \u0120p ats \u0120it ."}
+{"sentence_good": "They peep it.", "sentence_bad": "They peeps it.", "tokens_good": "They \u0120pe ep \u0120it .", "tokens_bad": "They \u0120pe eps \u0120it ."}
+{"sentence_good": "They pine it.", "sentence_bad": "They pines it.", "tokens_good": "They \u0120pine \u0120it .", "tokens_bad": "They \u0120p ines \u0120it ."}
+{"sentence_good": "They precede it.", "sentence_bad": "They precedes it.", "tokens_good": "They \u0120preced e \u0120it .", "tokens_bad": "They \u0120preced es \u0120it ."}
+{"sentence_good": "They radiate it.", "sentence_bad": "They radiates it.", "tokens_good": "They \u0120rad iate \u0120it .", "tokens_bad": "They \u0120radi ates \u0120it ."}
+{"sentence_good": "They rob it.", "sentence_bad": "They robs it.", "tokens_good": "They \u0120rob \u0120it .", "tokens_bad": "They \u0120ro bs \u0120it ."}
+{"sentence_good": "They rot it.", "sentence_bad": "They rots it.", "tokens_good": "They \u0120rot \u0120it .", "tokens_bad": "They \u0120ro ts \u0120it ."}
+{"sentence_good": "They rub it.", "sentence_bad": "They rubs it.", "tokens_good": "They \u0120rub \u0120it .", "tokens_bad": "They \u0120rub s \u0120it ."}
+{"sentence_good": "They saw it.", "sentence_bad": "They saws it.", "tokens_good": "They \u0120saw \u0120it .", "tokens_bad": "They \u0120saw s \u0120it ."}
+{"sentence_good": "They scold it.", "sentence_bad": "They scolds it.", "tokens_good": "They \u0120sc old \u0120it .", "tokens_bad": "They \u0120sc olds \u0120it ."}
+{"sentence_good": "They shear it.", "sentence_bad": "They shears it.", "tokens_good": "They \u0120she ar \u0120it .", "tokens_bad": "They \u0120she ars \u0120it ."}
+{"sentence_good": "They shrink it.", "sentence_bad": "They shrinks it.", "tokens_good": "They \u0120shrink \u0120it .", "tokens_bad": "They \u0120shr inks \u0120it ."}
+{"sentence_good": "They slay it.", "sentence_bad": "They slays it.", "tokens_good": "They \u0120slay \u0120it .", "tokens_bad": "They \u0120sl ays \u0120it ."}
+{"sentence_good": "They slink it.", "sentence_bad": "They slinks it.", "tokens_good": "They \u0120sl ink \u0120it .", "tokens_bad": "They \u0120sl inks \u0120it ."}
+{"sentence_good": "They slit it.", "sentence_bad": "They slits it.", "tokens_good": "They \u0120slit \u0120it .", "tokens_bad": "They \u0120sl its \u0120it ."}
+{"sentence_good": "They smite it.", "sentence_bad": "They smites it.", "tokens_good": "They \u0120sm ite \u0120it .", "tokens_bad": "They \u0120sm ites \u0120it ."}
+{"sentence_good": "They sneeze it.", "sentence_bad": "They sneezes it.", "tokens_good": "They \u0120sne e ze \u0120it .", "tokens_bad": "They \u0120sne ez es \u0120it ."}
+{"sentence_good": "They snore it.", "sentence_bad": "They snores it.", "tokens_good": "They \u0120sn ore \u0120it .", "tokens_bad": "They \u0120sn ores \u0120it ."}
+{"sentence_good": "They soothe it.", "sentence_bad": "They soothes it.", "tokens_good": "They \u0120so othe \u0120it .", "tokens_bad": "They \u0120so othes \u0120it ."}
+{"sentence_good": "They spit it.", "sentence_bad": "They spits it.", "tokens_good": "They \u0120spit \u0120it .", "tokens_bad": "They \u0120sp its \u0120it ."}
+{"sentence_good": "They stir it.", "sentence_bad": "They stirs it.", "tokens_good": "They \u0120stir \u0120it .", "tokens_bad": "They \u0120stir s \u0120it ."}
+{"sentence_good": "They tabulate it.", "sentence_bad": "They tabulates it.", "tokens_good": "They \u0120tab ulate \u0120it .", "tokens_bad": "They \u0120tab ulates \u0120it ."}
+{"sentence_good": "They thaw it.", "sentence_bad": "They thaws it.", "tokens_good": "They \u0120th aw \u0120it .", "tokens_bad": "They \u0120th aws \u0120it ."}
+{"sentence_good": "They trot it.", "sentence_bad": "They trots it.", "tokens_good": "They \u0120tro t \u0120it .", "tokens_bad": "They \u0120tro ts \u0120it ."}
+{"sentence_good": "They try it.", "sentence_bad": "They trys it.", "tokens_good": "They \u0120try \u0120it .", "tokens_bad": "They \u0120tr ys \u0120it ."}
+{"sentence_good": "They wail it.", "sentence_bad": "They wails it.", "tokens_good": "They \u0120w ail \u0120it .", "tokens_bad": "They \u0120w ails \u0120it ."}
+{"sentence_good": "They wend it.", "sentence_bad": "They wends it.", "tokens_good": "They \u0120w end \u0120it .", "tokens_bad": "They \u0120w ends \u0120it ."}
+{"sentence_good": "They wet it.", "sentence_bad": "They wets it.", "tokens_good": "They \u0120wet \u0120it .", "tokens_bad": "They \u0120w ets \u0120it ."}
+{"sentence_good": "They whirl it.", "sentence_bad": "They whirls it.", "tokens_good": "They \u0120wh irl \u0120it .", "tokens_bad": "They \u0120wh irl s \u0120it ."}
+{"sentence_good": "They wring it.", "sentence_bad": "They wrings it.", "tokens_good": "They \u0120wr ing \u0120it .", "tokens_bad": "They \u0120wr ings \u0120it ."}
