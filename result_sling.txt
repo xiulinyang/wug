@@ -99,3 +99,19 @@ plural_natural
 	plural_natural
 		openai-community/gpt2	95.00000	-1175.69739	-2840.52075
 		openai-community/gpt2-large	95.68182	-2103.03906	-8547.40332
+singular_natural
+	singular_natural
+		openai-community/gpt2	41.25874	-2233.88892	-1887.74719
+		openai-community/gpt2-large	83.44988	-2548.18433	-6852.23242
+plural_pseu
+	plural_pseu
+		openai-community/gpt2	83.96226	-2819.04175	-4980.54785
+		openai-community/gpt2-large	92.92453	-4236.30664	-9539.81152
+singular_pseu
+	singular_pseu
+		openai-community/gpt2	57.10956	-3278.78833	-3820.17920
+		openai-community/gpt2-large	60.37296	-4457.48926	-5301.92236
+plural_natural
+	plural_natural
+		openai-community/gpt2	95.04717	-1183.67896	-2899.95288
+		openai-community/gpt2-large	95.51887	-2132.62354	-8795.83887
