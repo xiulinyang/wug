@@ -85,16 +85,6 @@ irregular_plural_subject_verb_agreement_1_diff
 		openai-community/gpt2-large	82.35294	-1657.38562	-2756.08521
 singular_natural
 	singular_natural
-singular_natural
-	singular_natural
-		openai-community/gpt2	11.00703	-2272.98657	-1140.26697
-		openai-community/gpt2-large	30.44496	-2596.51050	-2004.58398
-singular_pseu
-	singular_pseu
-		openai-community/gpt2	55.97190	-3222.51709	-3647.71289
-		openai-community/gpt2-large	58.31382	-4610.70166	-5379.19922
-singular_natural
-	singular_natural
 		openai-community/gpt2	39.90719	-2316.55078	-1932.96912
 		openai-community/gpt2-large	83.29466	-2625.76733	-7037.85986
 plural_pseu
