@@ -24,7 +24,7 @@ with open('/Users/xiulinyang/Desktop/TODO/wug/verbs.txt', 'r') as verb:
                     plural_wrong = 'They ' + correct_verb+'.'
 
                     single_natural_correct = 'He '+v+'s.'
-                    single_natural_wrong = 'They ' +v+'.'
+                    single_natural_wrong = 'He ' +v+'.'
                     print(tokenizer.tokenize(single_wrong))
                     # if len(tokenizer.tokenize(single_correct))
 
