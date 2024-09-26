@@ -115,3 +115,35 @@ plural_natural
 	plural_natural
 		openai-community/gpt2	95.04717	-1183.67896	-2899.95288
 		openai-community/gpt2-large	95.51887	-2132.62354	-8795.83887
+singular_natural
+	singular_natural
+		openai-community/gpt2	37.12297	-542.79773	-485.80240
+		openai-community/gpt2-large	90.25522	-555.98145	-1192.49072
+plural_pseu
+	plural_pseu
+		openai-community/gpt2	86.92661	-1036.24500	-1876.29077
+		openai-community/gpt2-large	92.88991	-1366.92737	-2773.87476
+singular_pseu_t
+	singular_pseu_t
+		openai-community/gpt2	83.33333	-1108.58362	-3415.81812
+		openai-community/gpt2-large	85.41667	-1461.35156	-4717.54395
+singular_natural_t
+	singular_natural_t
+		openai-community/gpt2	79.16667	-275.63821	-457.44565
+		openai-community/gpt2-large	85.41667	-355.15311	-867.25348
+plural_pseu_t
+	plural_pseu_t
+		openai-community/gpt2	57.40741	-1822.16663	-1641.50452
+		openai-community/gpt2-large	55.55556	-2709.59351	-2697.67749
+plural_natural_t
+	plural_natural_t
+		openai-community/gpt2	72.22222	-279.70651	-432.28873
+		openai-community/gpt2-large	68.51852	-375.12598	-646.10315
+singular_pseu
+	singular_pseu
+		openai-community/gpt2	63.34107	-1214.34338	-1551.41003
+		openai-community/gpt2-large	73.78190	-1507.56165	-2209.41040
+plural_natural
+	plural_natural
+		openai-community/gpt2	97.70642	-330.61273	-621.92639
+		openai-community/gpt2-large	99.08257	-455.74023	-1411.25610
